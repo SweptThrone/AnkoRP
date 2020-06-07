@@ -1,0 +1,4214 @@
+﻿{
+  "tfa_cso_m82_v8": {
+    "price": 395000,
+    "slot": 4,
+    "parent": "tfa_cso_m82_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m82_v8.mdl",
+    "basic": false,
+    "name": "Parker Hale M82 Master"
+  },
+  "tfa_cso_m79": {
+    "price": 168000,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m79.mdl",
+    "basic": true,
+    "name": "M79"
+  },
+  "tfa_cso_hk23_master": {
+    "price": 483000,
+    "slot": 4,
+    "parent": "tfa_cso_hk23_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_hk23_v8.mdl",
+    "basic": false,
+    "name": "HK23E Master"
+  },
+  "tfa_cso_turbulent5": {
+    "price": 9900,
+    "slot": 3,
+    "parent": "tfa_cso_m14ebr",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_turbulent_5.mdl",
+    "basic": false,
+    "name": "TURBULENT-5"
+  },
+  "tfa_cso_xm2010_v8": {
+    "price": 729000,
+    "slot": 4,
+    "parent": "tfa_cso_xm2010_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_xm2010_v8.mdl",
+    "basic": false,
+    "name": "Remington XM2010 ESR Master"
+  },
+  "tfa_cso_dragonblade": {
+    "price": 8500,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_dragonblade.mdl",
+    "basic": false,
+    "name": "Green Dragon Blade"
+  },
+  "tfa_cso_x-15": {
+    "price": 33000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_x-15.mdl",
+    "basic": false,
+    "name": "Hunter Killer X-15"
+  },
+  "tfa_cso_uts15g": {
+    "price": 658000,
+    "slot": 4,
+    "parent": "tfa_cso_uts15_v8",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_uts15g.mdl",
+    "basic": false,
+    "name": "UTS-15 Pink Gold"
+  },
+  "tfa_cso_tomahawk": {
+    "price": 900,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_tomahawk.mdl",
+    "basic": true,
+    "name": "Tomahawk"
+  },
+  "tfa_cso_lightning_rail": {
+    "price": 250000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_lightning_rail.mdl",
+    "basic": false,
+    "name": "Lightning Rail"
+  },
+  "tfa_cso_vulcanus3": {
+    "price": 6700,
+    "slot": 3,
+    "parent": "tfa_cso_kriss_v",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_vulcanus_3.mdl",
+    "basic": false,
+    "name": "VULCANUS-3"
+  },
+  "tfa_cso_sl8gs": {
+    "price": 100000,
+    "slot": 4,
+    "parent": "tfa_cso_sl8ex",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_sl8gs.mdl",
+    "basic": false,
+    "name": "SL8 10th Anniversary"
+  },
+  "tfa_cso_thompson_expert": {
+    "price": 6100,
+    "slot": 3,
+    "parent": "tfa_cso_thompson_chicago",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_thompson_expert.mdl",
+    "basic": false,
+    "name": "Thompson - Expert"
+  },
+  "tfa_cso_tar_21": {
+    "price": 3200,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_tar_21.mdl",
+    "basic": true,
+    "name": "TAR-21"
+  },
+  "tfa_cso_famas": {
+    "price": 2700,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_rif_famas.mdl",
+    "basic": true,
+    "name": "FAMAS F1"
+  },
+  "tfa_cso_mac10_v2": {
+    "price": 1100,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_smg_mac10.mdl",
+    "basic": true,
+    "name": "MAC-10"
+  },
+  "tfa_cso_m1garand": {
+    "price": 1900,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m1garand.mdl",
+    "basic": true,
+    "name": "M1 Garand"
+  },
+  "tfa_cso_m249phoenix": {
+    "price": 310000,
+    "slot": 4,
+    "parent": "tfa_cso_m249ep",
+    "deep": 5,
+    "model": "models/weapons/tfa_cso/w_m249phoenix.mdl",
+    "basic": false,
+    "name": "M249 Phoenix"
+  },
+  "tfa_cso_lycanthrope": {
+    "price": 36000,
+    "slot": 3,
+    "parent": "tfa_cso_sg552",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_lycanthrope.mdl",
+    "basic": false,
+    "name": "SG552 Lycanthrope"
+  },
+  "tfa_cso_batista": {
+    "price": 39000,
+    "slot": 4,
+    "parent": "tfa_cso_dbarrel",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_batista.mdl",
+    "basic": false,
+    "name": "Batista"
+  },
+  "tfa_cso_infinite_black": {
+    "price": 2000,
+    "slot": 2,
+    "parent": "tfa_cso_infinite_silver",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_infinity_black.mdl",
+    "basic": false,
+    "name": "Infinity Black"
+  },
+  "tfa_cso_psg1": {
+    "price": 5000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_psg1.mdl",
+    "basic": true,
+    "name": "PSG-1"
+  },
+  "tfa_cso_stormgiant": {
+    "price": 560000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_storm_giant.mdl",
+    "basic": false,
+    "name": "Warhammer Storm Giant"
+  },
+  "tfa_cso_usas12camo": {
+    "price": 18000,
+    "slot": 4,
+    "parent": "tfa_cso_usas12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_usas12camo.mdl",
+    "basic": false,
+    "name": "USAS-12 Camouflage"
+  },
+  "tfa_cso_p228_v2": {
+    "price": 300,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_pist_p228.mdl",
+    "basic": true,
+    "name": "P228"
+  },
+  "tfa_cso_cartred_b": {
+    "price": 6800,
+    "slot": 3,
+    "parent": "tfa_cso_cartred_a",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_cartred.mdl",
+    "basic": false,
+    "name": "Lightning Bazzi-1 (B Mode)"
+  },
+  "tfa_cso_ksg12_gold": {
+    "price": 320000,
+    "slot": 4,
+    "parent": "tfa_cso_ksg12_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_ksg12_gold.mdl",
+    "basic": false,
+    "name": "KSG-12 Gold"
+  },
+  "tfa_cso_kingcobra_v6": {
+    "price": 110000,
+    "slot": 2,
+    "parent": "tfa_cso_kingcobra",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_kingcobra_v6.mdl",
+    "basic": false,
+    "name": "King Cobra Expert"
+  },
+  "tfa_cso_m60g": {
+    "price": 820000,
+    "slot": 4,
+    "parent": "tfa_cso_m60_v8",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_m60g.mdl",
+    "basic": false,
+    "name": "M60E4 Gold"
+  },
+  "tfa_cso_uts15": {
+    "price": 4700,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_uts15.mdl",
+    "basic": true,
+    "name": "UTS-15"
+  },
+  "tfa_cso_janus5a": {
+    "price": 23000,
+    "slot": 3,
+    "parent": "tfa_cso_hk416",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_janus5.mdl",
+    "basic": false,
+    "name": "JANUS-5 (A Mode)"
+  },
+  "tfa_cso_qbz95b": {
+    "price": 3600,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_qbz95b.mdl",
+    "basic": true,
+    "name": "QBZ-95B"
+  },
+  "tfa_cso_dualuzi_stock": {
+    "price": 6100,
+    "slot": 3,
+    "parent": "tfa_cso_uzi",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dualuzi_stock.mdl",
+    "basic": false,
+    "name": "Dual Uzi (B Mode)"
+  },
+  "tfa_cso_stinger": {
+    "price": 1200000,
+    "slot": 2,
+    "parent": "tfa_cso_speargun_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_stinger.mdl",
+    "basic": false,
+    "name": "Stinger"
+  },
+  "tfa_cso_tank": {
+    "price": 800000,
+    "slot": 5,
+    "parent": "tfa_cso_t50",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_tank.mdl",
+    "basic": false,
+    "name": "Brick Piece T50 (B Mode)"
+  },
+  "tfa_cso_crow1": {
+    "price": 9600,
+    "slot": 2,
+    "parent": "tfa_cso_glock",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_crow1.mdl",
+    "basic": false,
+    "name": "CROW-1"
+  },
+  "tfa_cso_m95_master": {
+    "price": 450000,
+    "slot": 4,
+    "parent": "tfa_cso_m95_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m95_master.mdl",
+    "basic": false,
+    "name": "M95 Master"
+  },
+  "tfa_cso_m4a1red": {
+    "price": 8700,
+    "slot": 3,
+    "parent": "tfa_cso_m4a1dragon",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m4a1red.mdl",
+    "basic": false,
+    "name": "M4A1 Red"
+  },
+  "tfa_cso_m4a1wg": {
+    "price": 17000,
+    "slot": 3,
+    "parent": "tfa_cso_m4a1red",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_m4a1wg.mdl",
+    "basic": false,
+    "name": "M4A1 White Gold"
+  },
+  "tfa_cso_skull6": {
+    "price": 32000,
+    "slot": 4,
+    "parent": "tfa_cso_m249",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_skull_6.mdl",
+    "basic": false,
+    "name": "SKULL-6"
+  },
+  "tfa_cso_sfgrenade": {
+    "price": 6300,
+    "slot": 5,
+    "parent": "tfa_cso_fragnade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_sfgrenade.mdl",
+    "basic": false,
+    "name": "Plasma Grenade"
+  },
+  "tfa_cso_pkm": {
+    "price": 5500,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_pkm.mdl",
+    "basic": true,
+    "name": "PKM"
+  },
+  "tfa_cso_kujang": {
+    "price": 1200,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_kujang.mdl",
+    "basic": true,
+    "name": "Kujang"
+  },
+  "tfa_cso_m14ebrg": {
+    "price": 320000,
+    "slot": 3,
+    "parent": "tfa_cso_m14ebr_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_m14g.mdl",
+    "basic": false,
+    "name": "M14 EBR Gold"
+  },
+  "tfa_cso_m60": {
+    "price": 6100,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m60.mdl",
+    "basic": true,
+    "name": "M60E4"
+  },
+  "tfa_cso_mp5g": {
+    "price": 170000,
+    "slot": 3,
+    "parent": "tfa_cso_mp5tiger",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_mp5g.mdl",
+    "basic": false,
+    "name": "MP5 Gold"
+  },
+  "tfa_cso_m3": {
+    "price": 2700,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_shot_m3super90.mdl",
+    "basic": true,
+    "name": "Benelli M3"
+  },
+  "tfa_cso_m4a1gold": {
+    "price": 23000,
+    "slot": 3,
+    "parent": "tfa_cso_m4a1wg",
+    "deep": 5,
+    "model": "models/weapons/tfa_cso/w_m4a1g.mdl",
+    "basic": false,
+    "name": "M4A1 Gold"
+  },
+  "tfa_cso_k1a_maverick": {
+    "price": 54000,
+    "slot": 3,
+    "parent": "tfa_cso_k1ase",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_k1a_maverick.mdl",
+    "basic": false,
+    "name": "K1A Maverick"
+  },
+  "tfa_cso_skull3_b": {
+    "price": 61000,
+    "slot": 3,
+    "parent": "tfa_cso_skull3_a",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_skull_3.mdl",
+    "basic": false,
+    "name": "SKULL-3 (B Mode)"
+  },
+  "tfa_cso_dualkriss": {
+    "price": 72000,
+    "slot": 3,
+    "parent": "tfa_cso_kriss_v",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dualkriss.mdl",
+    "basic": false,
+    "name": "Dual Kriss"
+  },
+  "tfa_cso_ak47red": {
+    "price": 6800,
+    "slot": 3,
+    "parent": "tfa_cso_ak47_dragon",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_ak47red.mdl",
+    "basic": false,
+    "name": "AK-47 Red"
+  },
+  "tfa_cso_ak47wg": {
+	"price": 27000,
+	"slot": 3,
+	"parent": "tfa_cso_ak47red",
+	"deep": 4,
+	"model": "models/weapons/tfa_cso/w_ak47wg.mdl",
+	"basic": false,
+	"name": "AK-47 White Gold"
+  },
+  "tfa_cso_wa2000_master": {
+    "price": 76000,
+    "slot": 4,
+    "parent": "tfa_cso_wa2000_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_wa2000_master.mdl",
+    "basic": false,
+    "name": "Walther WA2000 - Master"
+  },
+  "tfa_cso_bouncer": {
+    "price": 49000,
+    "slot": 4,
+    "parent": "tfa_cso_uts15",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_bouncer.mdl",
+    "basic": false,
+    "name": "Bouncer"
+  },
+  "tfa_cso_m1887": {
+    "price": 2100,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m1887.mdl",
+    "basic": true,
+    "name": "Winchester M1887"
+  },
+  "tfa_cso_infinityex1": {
+    "price": 5400,
+    "slot": 2,
+    "parent": "tfa_cso_dualinfinity",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_infinity_red.mdl",
+    "basic": false,
+    "name": "Dual Infinity Custom"
+  },
+  "tfa_cso_charger5": {
+    "price": 9300,
+    "slot": 3,
+    "parent": "tfa_cso_groza",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_charger5.mdl",
+    "basic": false,
+    "name": "CHARGER-5"
+  },
+  "tfa_cso_spas12": {
+    "price": 3000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_shot_m3super90.mdl",
+    "basic": true,
+    "name": "SPAS-12"
+  },
+  "tfa_cso_falcon": {
+    "price": 9000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_falcon.mdl",
+    "basic": true,
+    "name": "Falcon"
+  },
+  "tfa_cso_turbulent3": {
+    "price": 7800,
+    "slot": 4,
+    "parent": "tfa_cso_sten_mk2",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_turbulent3.mdl",
+    "basic": false,
+    "name": "TURBULENT-3"
+  },
+  "tfa_cso_m16a1": {
+    "price": 3000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m16a1.mdl",
+    "basic": true,
+    "name": "M16A1"
+  },
+  "tfa_cso_m95_xmas": {
+    "price": 25000,
+    "slot": 4,
+    "parent": "tfa_cso_m95",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m95xmas.mdl",
+    "basic": false,
+    "name": "M95 XMAS"
+  },
+  "tfa_cso_m95ghost": {
+    "price": 780000,
+    "slot": 4,
+    "parent": "tfa_cso_m95_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_m95ghost.mdl",
+    "basic": false,
+    "name": "M95 Ghost Knight"
+  },
+  "tfa_cso_kingcobragold": {
+    "price": 490000,
+    "slot": 2,
+    "parent": "tfa_cso_kingcobra_v8",
+    "deep": 5,
+    "model": "models/weapons/tfa_cso/w_kingcobragold.mdl",
+    "basic": false,
+    "name": "King Cobra Gold Edition"
+  },
+  "tfa_cso_spas12maverick": {
+    "price": 7500,
+    "slot": 4,
+    "parent": "tfa_cso_spas12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_spas12maverick.mdl",
+    "basic": false,
+    "name": "SPAS-12 Maverick"
+  },
+  "tfa_cso_luger_legacy": {
+    "price": 110000,
+    "slot": 2,
+    "parent": "tfa_cso_luger_silver",
+    "deep": 6,
+    "model": "models/weapons/tfa_cso/w_luger.mdl",
+    "basic": false,
+    "name": "Dark Legacy Luger"
+  },
+  "tfa_cso_turbulent1": {
+    "price": 8200,
+    "slot": 2,
+    "parent": "tfa_cso_mauser_c96",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_turbulent_1.mdl",
+    "basic": false,
+    "name": "TURBULENT-1"
+  },
+  "tfa_cso_cake": {
+    "price": 6300,
+    "slot": 5,
+    "parent": "tfa_cso_fragnade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_cake.mdl",
+    "basic": false,
+    "name": "Cake Grenade"
+  },
+  "tfa_cso_mastercombatknife": {
+    "price": 6200,
+    "slot": 1,
+    "parent": "tfa_cso_combatknife",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mastercombatknife.mdl",
+    "basic": false,
+    "name": "Soul Bane Serrated Blade"
+  },
+  "tfa_cso_p90": {
+    "price": 2500,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_smg_p90.mdl",
+    "basic": true,
+    "name": "FN P90"
+  },
+  "tfa_cso_thunderbolt": {
+    "price": 210000,
+    "slot": 4,
+    "parent": "tfa_cso_lightning_rail",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_thunderbolt.mdl",
+    "basic": false,
+    "name": "Thunderbolt"
+  },
+  "tfa_cso_m24": {
+    "price": 3100,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m24.mdl",
+    "basic": true,
+    "name": "Remington M24"
+  },
+  "tfa_cso_m249camo": {
+    "price": 27000,
+    "slot": 4,
+    "parent": "tfa_cso_m249",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m249camo.mdl",
+    "basic": false,
+    "name": "M249 Camouflage"
+  },
+  "tfa_cso_dualnata": {
+    "price": 9800,
+    "slot": 1,
+    "parent": "tfa_cso_nata",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dualnata.mdl",
+    "basic": false,
+    "name": "Dual Nata Knives"
+  },
+  "tfa_cso_ak_long": {
+    "price": 9700,
+    "slot": 3,
+    "parent": "tfa_cso_ak47",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_ak47_long.mdl",
+    "basic": false,
+    "name": "AK-47 60R"
+  },
+  "tfa_cso_serpent_blade": {
+    "price": 1500,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_serpent_blade.mdl",
+    "basic": false,
+    "name": "Serpent Blade"
+  },
+  "tfa_cso_dualkatana": {
+    "price": 13000,
+    "slot": 1,
+    "parent": "tfa_cso_katana",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_katana.mdl",
+    "basic": false,
+    "name": "Dual Wakizashi"
+  },
+  "tfa_cso_cartblue_a": {
+    "price": 3700,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_cartblue.mdl",
+    "basic": false,
+    "name": "Lightning Dao-1 (A Mode)"
+  },
+  "tfa_cso_norinco_86s": {
+    "price": 2500,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_norinco_86s.mdl",
+    "basic": true,
+    "name": "Norinco Type 86S"
+  },
+  "tfa_cso_thompson_gold": {
+    "price": 96000,
+    "slot": 3,
+    "parent": "tfa_cso_thompson_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_thompson_gold.mdl",
+    "basic": false,
+    "name": "Thompson - Gold"
+  },
+  "tfa_cso_brickpiecev2": {
+    "price": 4200,
+    "slot": 3,
+    "parent": "tfa_cso_m4a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_brick_piece_v2.mdl",
+    "basic": false,
+    "name": "Brick Piece V2 (A Mode)"
+  },
+  "tfa_cso_gunkata": {
+    "price": 475000,
+    "slot": 2,
+    "parent": "tfa_cso_elite",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_gunkata.mdl",
+    "basic": false,
+    "name": "Dual Beretta Gunslinger"
+  },
+  "tfa_cso_rpg7_v6": {
+    "price": 47000,
+    "slot": 5,
+    "parent": "tfa_cso_rpg7",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_rpg7_v6.mdl",
+    "basic": false,
+    "name": "RPG-7 Expert"
+  },
+  "tfa_cso_m14ebr_master": {
+    "price": 342000,
+    "slot": 3,
+    "parent": "tfa_cso_m14ebr_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m14_v8.mdl",
+    "basic": false,
+    "name": "M14 EBR Master"
+  },
+  "tfa_cso_awpz": {
+    "price": 61500,
+    "slot": 4,
+    "parent": "tfa_cso_awp",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_awpz.mdl",
+    "basic": false,
+    "name": "AWP-Z"
+  },
+  "tfa_cso_k1ase": {
+    "price": 38000,
+    "slot": 4,
+    "parent": "tfa_cso_k1a",
+    "deep": 2,
+    "model": "models/weapons/w_rif_ak47.mdl",
+    "basic": false,
+    "name": "Daewoo K1A Special Edition"
+  },
+  "tfa_cso_katana": {
+    "price": 7000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_katana.mdl",
+    "basic": true,
+    "name": "Wakizashi"
+  },
+  "tfa_cso_m82": {
+    "price": 3400,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m82.mdl",
+    "basic": true,
+    "name": "Parker Hale M82"
+  },
+  "tfa_cso_at4": {
+    "price": 189000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_at4.mdl",
+    "basic": true,
+    "name": "M136 AT4"
+  },
+  "tfa_cso_darkknight": {
+    "price": 24000,
+    "slot": 3,
+    "parent": "tfa_cso_m4a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dark_knight.mdl",
+    "basic": false,
+    "name": "M4A1 Dark Knight"
+  },
+  "tfa_cso_holysword": {
+    "price": 785000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_holysword.mdl",
+    "basic": false,
+    "name": "Holy Sword Divine Crusader"
+  },
+  "tfa_cso_burningaug": {
+    "price": 14500,
+    "slot": 3,
+    "parent": "tfa_cso_aug",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_burning_aug.mdl",
+    "basic": false,
+    "name": "Burning AUG"
+  },
+  "tfa_cso_hk416": {
+    "price": 3600,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_hk416.mdl",
+    "basic": true,
+    "name": "HK416"
+  },
+  "tfa_cso_ak74u": {
+    "price": 2300,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_ak74u.mdl",
+    "basic": true,
+    "name": "AK-74U"
+  },
+  "tfa_cso_thanatos11": {
+    "price": 78000,
+    "slot": 4,
+    "parent": "tfa_cso_ksg12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_thanatos_11.mdl",
+    "basic": false,
+    "name": "THANATOS-11"
+  },
+  "tfa_cso_beam_sword": {
+    "price": 500000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_beam_sword.mdl",
+    "basic": false,
+    "name": "Beam Sword"
+  },
+  "tfa_cso_as50_expert": {
+    "price": 112000,
+    "slot": 4,
+    "parent": "tfa_cso_as50",
+    "deep": 2,
+    "model": "models/weapons/w_snip_awp.mdl",
+    "basic": false,
+    "name": "AI AS50 Expert"
+  },
+  "tfa_cso_thompson_master": {
+    "price": 24000,
+    "slot": 3,
+    "parent": "tfa_cso_thompson_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_thompson_master.mdl",
+    "basic": false,
+    "name": "Thompson - Master"
+  },
+  "tfa_cso_mp40": {
+    "price": 1300,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mp40.mdl",
+    "basic": true,
+    "name": "MP40"
+  },
+  "tfa_cso_negev": {
+    "price": 5200,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_negev.mdl",
+    "basic": true,
+    "name": "Negev"
+  },
+  "tfa_cso_dualshawujing": {
+    "price": 358000,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_monkeywpnset2.mdl",
+    "basic": false,
+    "name": "Sha Wujing Dual Handgun"
+  },
+  "tfa_cso_m950_attack": {
+    "price": 69000,
+    "slot": 3,
+    "parent": "tfa_cso_m950",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m950_attack.mdl",
+    "basic": false,
+    "name": "M950 Attack"
+  },
+  "tfa_cso_janus3a": {
+    "price": 57000,
+    "slot": 3,
+    "parent": "tfa_cso_thompson_chicago",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_janus3.mdl",
+    "basic": false,
+    "name": "JANUS-3 (A Mode)"
+  },
+  "tfa_cso_galil": {
+    "price": 2500,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_rif_galil.mdl",
+    "basic": true,
+    "name": "Galil"
+  },
+  "tfa_cso_hk23g": {
+    "price": 973000,
+    "slot": 4,
+    "parent": "tfa_cso_hk23_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_hk23g.mdl",
+    "basic": false,
+    "name": "HK23E Gold"
+  },
+  "tfa_cso_dreadnova": {
+    "price": 815000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_dreadnova_a.mdl",
+    "basic": false,
+    "name": "Dread Nova"
+  },
+  "tfa_cso_crossbowex_v6": {
+    "price": 684000,
+    "slot": 4,
+    "parent": "tfa_cso_crossbowex",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_crossbowex_v6.mdl",
+    "basic": false,
+    "name": "Crossbow Advance Expert"
+  },
+  "tfa_cso_qbarrel": {
+    "price": 329000,
+    "slot": 4,
+    "parent": "tfa_cso_tbarrel",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_qbarrel.mdl",
+    "basic": false,
+    "name": "Quad-Barreled Shotgun"
+  },
+  "tfa_cso_luger_gold": {
+    "price": 78000,
+    "slot": 2,
+    "parent": "tfa_cso_luger_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_luger_gold.mdl",
+    "basic": false,
+    "name": "Luger P08 - Gold"
+  },
+  "tfa_cso_paladin_v6": {
+    "price": 385000,
+    "slot": 3,
+    "parent": "tfa_cso_paladin",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_paladin_tyrant.mdl",
+    "basic": false,
+    "name": "AK-47 Overlord"
+  },
+  "tfa_cso_awp": {
+    "price": 4750,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_snip_awp.mdl",
+    "basic": true,
+    "name": "AWP"
+  },
+  "tfa_cso_v2rocket": {
+    "price": 700000,
+    "slot": 5,
+    "parent": "tfa_cso_brickpiecev2",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_v2rocket.mdl",
+    "basic": false,
+    "name": "Brick Piece V2 (B Mode)"
+  },
+  "tfa_cso_m1887_master": {
+    "price": 753000,
+    "slot": 4,
+    "parent": "tfa_cso_m1887_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m1887_master.mdl",
+    "basic": false,
+    "name": "Winchester M1887 - Master"
+  },
+  "tfa_cso_tornadoa": {
+    "price": 6800,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_tornado.mdl",
+    "basic": false,
+    "name": "Tornado (No Charge)"
+  },
+  "tfa_cso_anaconda": {
+    "price": 900,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_anaconda.mdl",
+    "basic": true,
+    "name": "Anaconda"
+  },
+  "tfa_cso_m4a1gs": {
+    "price": 792000,
+    "slot": 3,
+    "parent": "tfa_cso_m4a1gold",
+    "deep": 6,
+    "model": "models/weapons/tfa_cso/w_m4a1gs.mdl",
+    "basic": false,
+    "name": "M4A1 10th Anniversary"
+  },
+  "tfa_cso_dbarrel": {
+    "price": 2100,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_dbarrel.mdl",
+    "basic": true,
+    "name": "Double-barreled shotgun"
+  },
+  "tfa_cso_luger_expert": {
+    "price": 59000,
+    "slot": 2,
+    "parent": "tfa_cso_luger",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_luger_expert.mdl",
+    "basic": false,
+    "name": "Luger P08 - Expert"
+  },
+  "tfa_cso_kingcobra": {
+    "price": 11000,
+    "slot": 2,
+    "parent": "tfa_cso_anaconda",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_kingcobra.mdl",
+    "basic": false,
+    "name": "King Cobra"
+  },
+  "tfa_cso_starchaserar": {
+    "price": 358000,
+    "slot": 3,
+    "parent": "tfa_cso_aug",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_starchaserar.mdl",
+    "basic": false,
+    "name": "Star Chaser AR"
+  },
+  "tfa_cso_crossbow": {
+    "price": 6000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_crossbow.mdl",
+    "basic": true,
+    "name": "Crossbow"
+  },
+  "tfa_cso_skull1": {
+    "price": 38000,
+    "slot": 2,
+    "parent": "tfa_cso_anaconda",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_skull1.mdl",
+    "basic": false,
+    "name": "SKULL-1"
+  },
+  "tfa_cso_at4ex": {
+    "price": 265000,
+    "slot": 5,
+    "parent": "tfa_cso_at4",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_at4ex.mdl",
+    "basic": false,
+    "name": "M136 AT4 CS"
+  },
+  "tfa_cso_pp2000": {
+    "price": 1000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_pp2000.mdl",
+    "basic": true,
+    "name": "PP2000"
+  },
+  "tfa_cso_m1918bar": {
+    "price": 3800,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m1918bar.mdl",
+    "basic": true,
+    "name": "M1918 BAR"
+  },
+  "tfa_cso_gungnir_nrm": {
+    "price": 10000000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_gungnira.mdl",
+    "basic": false,
+    "name": "Gungnir"
+  },
+  "tfa_cso_fiveseven": {
+    "price": 500,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_pist_fiveseven.mdl",
+    "basic": true,
+    "name": "FN Five-seveN"
+  },
+  "tfa_cso_mk3a1": {
+    "price": 3200,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mk3a1.mdl",
+    "basic": true,
+    "name": "MK3A1"
+  },
+  "tfa_cso_mk48_master": {
+    "price": 896000,
+    "slot": 4,
+    "parent": "tfa_cso_mk48_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_mk48_master.mdl",
+    "basic": false,
+    "name": "FN MK48 - Master"
+  },
+  "tfa_cso_xm8": {
+    "price": 3500,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_xm8.mdl",
+    "basic": true,
+    "name": "XM8"
+  },
+  "tfa_cso_sg550": {
+    "price": 5000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_snip_sg550.mdl",
+    "basic": true,
+    "name": "SIG SG550 Sniper"
+  },
+  "tfa_cso_pgm": {
+    "price": 27000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_pgm.mdl",
+    "basic": true,
+    "name": "PGM Hécate II"
+  },
+  "tfa_cso_thunderpistol": {
+    "price": 2300000,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_thunderpistol.mdl",
+    "basic": false,
+    "name": "Thunder Ghost Walker"
+  },
+  "tfa_cso_newcomen_v6": {
+    "price": 130000,
+    "slot": 3,
+    "parent": "tfa_cso_newcomen",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_newcomen_v6.mdl",
+    "basic": false,
+    "name": "Newcomen Expert"
+  },
+  "tfa_cso_g11g": {
+    "price": 595000,
+    "slot": 3,
+    "parent": "tfa_cso_g11_v8",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_g11g.mdl",
+    "basic": false,
+    "name": "HK G11 Gold Edition"
+  },
+  "tfa_cso_mg3xmas": {
+    "price": 250000,
+    "slot": 4,
+    "parent": "tfa_cso_mg3",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mg3_xmas.mdl",
+    "basic": false,
+    "name": "MG3 XMAS"
+  },
+  "tfa_cso_thanatos5": {
+    "price": 59500,
+    "slot": 3,
+    "parent": "tfa_cso_oicw",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_thanatos_5.mdl",
+    "basic": false,
+    "name": "THANATOS-5"
+  },
+  "tfa_cso_bendita_v6": {
+    "price": 420000,
+    "slot": 4,
+    "parent": "tfa_cso_bendita",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_bendita_v6.mdl",
+    "basic": false,
+    "name": "Bendita Expert"
+  },
+  "tfa_cso_k3": {
+    "price": 4000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_k3.mdl",
+    "basic": true,
+    "name": "K3"
+  },
+  "tfa_cso_pkm_expert": {
+    "price": 72000,
+    "slot": 4,
+    "parent": "tfa_cso_pkm",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_pkm_v6.mdl",
+    "basic": false,
+    "name": "PKM Expert"
+  },
+  "tfa_cso_trinity_stun": {
+    "price": 50000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_trinity_stun.mdl",
+    "basic": false,
+    "name": "Trinity - Stun"
+  },
+  "tfa_cso_charger7": {
+    "price": 89000,
+    "slot": 4,
+    "parent": "tfa_cso_mg3",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_charger_7.mdl",
+    "basic": false,
+    "name": "CHARGER-7"
+  },
+  "tfa_cso_m777": {
+    "price": 15000,
+    "slot": 4,
+    "parent": "tfa_cso_xm1014",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m777.mdl",
+    "basic": false,
+    "name": "Brick Piece M777 (A Mode)"
+  },
+  "tfa_cso_luger_master": {
+    "price": 52000,
+    "slot": 2,
+    "parent": "tfa_cso_luger_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_luger_master.mdl",
+    "basic": false,
+    "name": "Luger P08 - Master"
+  },
+  "tfa_cso_skull9": {
+    "price": 43000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_skull_9.mdl",
+    "basic": false,
+    "name": "SKULL-9"
+  },
+  "tfa_cso_mp7a160r": {
+    "price": 3900,
+    "slot": 3,
+    "parent": "tfa_cso_mp7a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mp7a160r.mdl",
+    "basic": false,
+    "name": "MP7A1 60R"
+  },
+  "tfa_cso_python": {
+    "price": 800,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_python.mdl",
+    "basic": true,
+    "name": "Colt Python"
+  },
+  "tfa_cso_newcomen": {
+    "price": 39000,
+    "slot": 3,
+    "parent": "tfa_cso_mp7a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_newcomen.mdl",
+    "basic": false,
+    "name": "Newcomen"
+  },
+  "tfa_cso_x-90": {
+    "price": 160000,
+    "slot": 3,
+    "parent": "tfa_cso_p90",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_x-90.mdl",
+    "basic": false,
+    "name": "Hunter Killer X-90"
+  },
+  "tfa_cso_needler": {
+    "price": 485000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_needler.mdl",
+    "basic": true,
+    "name": "Needler"
+  },
+  "tfa_cso_r93": {
+    "price": 63000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_r93.mdl",
+    "basic": true,
+    "name": "Blaser R93 Tactical"
+  },
+  "tfa_cso_cartred_a": {
+    "price": 3700,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_cartred.mdl",
+    "basic": false,
+    "name": "Lightning Bazzi-1 (A Mode)"
+  },
+  "tfa_cso_m950": {
+    "price": 2500,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m950.mdl",
+    "basic": true,
+    "name": "Calico M950"
+  },
+  "tfa_cso_mg3": {
+    "price": 8700,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mg3.mdl",
+    "basic": true,
+    "name": "MG3"
+  },
+  "tfa_cso_scarh": {
+    "price": 4300,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_scarh.mdl",
+    "basic": true,
+    "name": "SCAR-H"
+  },
+  "tfa_cso_m3dragon": {
+    "price": 1300000,
+    "slot": 4,
+    "parent": "tfa_cso_m3shark",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m3_dragon.mdl",
+    "basic": false,
+    "name": "M3 Black Dragon"
+  },
+  "tfa_cso_m200": {
+    "price": 79000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m200.mdl",
+    "basic": true,
+    "name": "Cheytac Intervention M200"
+  },
+  "tfa_cso_skull5": {
+    "price": 100000,
+    "slot": 4,
+    "parent": "tfa_cso_m14ebr",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_skull5.mdl",
+    "basic": false,
+    "name": "SKULL-5"
+  },
+  "tfa_cso_vulcanus11": {
+    "price": 62000,
+    "slot": 4,
+    "parent": "tfa_cso_spas12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_vulcanus11.mdl",
+    "basic": false,
+    "name": "VULCANUS-11"
+  },
+  "tfa_cso_hk_g11": {
+    "price": 3900,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_hk_g11.mdl",
+    "basic": true,
+    "name": "HK G11"
+  },
+  "tfa_cso_ultimax100": {
+    "price": 6000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_ultimax100.mdl",
+    "basic": true,
+    "name": "Ultimax 100"
+  },
+  "tfa_cso_bow_v6": {
+    "price": 1200000,
+    "slot": 4,
+    "parent": "tfa_cso_bow",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_compound_v6.mdl",
+    "basic": false,
+    "name": "Compound Bow Expert"
+  },
+  "tfa_cso_balrog5": {
+    "price": 123000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_balrog5.mdl",
+    "basic": false,
+    "name": "BALROG-V"
+  },
+  "tfa_cso_duckgun": {
+    "price": 389000,
+    "slot": 2,
+    "parent": "tfa_cso_divinelock",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_duck_musket.mdl",
+    "basic": false,
+    "name": "Special Duck Foot Gun"
+  },
+  "tfa_cso_qbb95": {
+    "price": 2900,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_mach_m249para.mdl",
+    "basic": true,
+    "name": "QBB-95"
+  },
+  "tfa_cso_vulcanus1_b": {
+    "price": 62000,
+    "slot": 2,
+    "parent": "tfa_cso_vulcanus1_a",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_vulcanus_1.mdl",
+    "basic": false,
+    "name": "VULCANUS-1 (B-Mode)"
+  },
+  "tfa_cso_g11_v6": {
+    "price": 89000,
+    "slot": 3,
+    "parent": "tfa_cso_hk_g11",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_g11_v6.mdl",
+    "basic": false,
+    "name": "HK G11 Expert"
+  },
+  "tfa_cso_divinelock": {
+    "price": 99000,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_flintlock_pistol.mdl",
+    "basic": false,
+    "name": "Divine Lock"
+  },
+  "tfa_cso_ethereal": {
+    "price": 6300,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_ethereal.mdl",
+    "basic": false,
+    "name": "Ethereal"
+  },
+  "tfa_cso_aug": {
+    "price": 3300,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_rif_aug.mdl",
+    "basic": true,
+    "name": "Steyr AUG A1"
+  },
+  "tfa_cso_hk23": {
+    "price": 6600,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_hk23.mdl",
+    "basic": true,
+    "name": "HK23E"
+  },
+  "tfa_cso_sl8ex": {
+    "price": 382000,
+    "slot": 4,
+    "parent": "tfa_cso_sl8g",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_sl8ex.mdl",
+    "basic": false,
+    "name": "SL8 Custom"
+  },
+  "tfa_cso_mauser_c96": {
+    "price": 400,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mauser_c96.mdl",
+    "basic": true,
+    "name": "Mauser C96"
+  },
+  "tfa_cso_pchan": {
+    "price": 52000,
+    "slot": 3,
+    "parent": "tfa_cso_p90",
+    "deep": 2,
+    "model": "models/weapons/w_smg_p90.mdl",
+    "basic": false,
+    "name": "FN P90 Lapin"
+  },
+  "tfa_cso_laserfist": {
+    "price": 3200000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_laserfist_r.mdl",
+    "basic": false,
+    "name": "Infinity Laser Fist"
+  },
+  "tfa_cso_bizon": {
+    "price": 1600,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_bizon.mdl",
+    "basic": true,
+    "name": "PP-19 Bizon"
+  },
+  "tfa_cso_holybomb_refined": {
+    "price": 49000,
+    "slot": 5,
+    "parent": "tfa_cso_holybomb",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_holybomb_refined.mdl",
+    "basic": false,
+    "name": "Holy Bomb Refined"
+  },
+  "tfa_cso_spas12superior": {
+    "price": 16500,
+    "slot": 4,
+    "parent": "tfa_cso_spas12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_spas12_superior.mdl",
+    "basic": false,
+    "name": "SPAS-12 Superior"
+  },
+  "tfa_cso_sg552": {
+    "price": 3000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_rif_sg552.mdl",
+    "basic": true,
+    "name": "SIG SG552 Commando"
+  },
+  "tfa_cso_lycanthrope_expert": {
+    "price": 612000,
+    "slot": 3,
+    "parent": "tfa_cso_lycanthrope",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_lycanthrope_expert.mdl",
+    "basic": false,
+    "name": "SG552 Lycanthrope Expert"
+  },
+  "tfa_cso_thanatos7": {
+    "price": 317000,
+    "slot": 4,
+    "parent": "tfa_cso_mk48",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_thanatos_7.mdl",
+    "basic": false,
+    "name": "THANATOS-7"
+  },
+  "tfa_cso_petrolboomer": {
+    "price": 94000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_petrolboomer.mdl",
+    "basic": false,
+    "name": "Petrol Boomer"
+  },
+  "tfa_cso_balrog7": {
+    "price": 78000,
+    "slot": 4,
+    "parent": "tfa_cso_m60",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_balrog7.mdl",
+    "basic": false,
+    "name": "BALROG-VII"
+  },
+  "tfa_cso_aeolis": {
+    "price": 13000,
+    "slot": 4,
+    "parent": "tfa_cso_pkm",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_aeolis.mdl",
+    "basic": false,
+    "name": "Aeolis"
+  },
+  "tfa_cso_fnc": {
+    "price": 2950,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_fnc.mdl",
+    "basic": true,
+    "name": "FNC"
+  },
+  "tfa_cso_ksg12": {
+    "price": 3200,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_ksg12.mdl",
+    "basic": true,
+    "name": "KSG-12"
+  },
+  "tfa_cso_uts15_v8": {
+    "price": 395000,
+    "slot": 4,
+    "parent": "tfa_cso_uts15_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_uts15_v8.mdl",
+    "basic": false,
+    "name": "UTS-15 Master"
+  },
+  "tfa_cso_xm2010": {
+    "price": 17500,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_xm2010.mdl",
+    "basic": true,
+    "name": "Remington XM2010 ESR"
+  },
+  "tfa_cso_m249_xmas": {
+    "price": 16500,
+    "slot": 4,
+    "parent": "tfa_cso_m249camo",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m249xmas.mdl",
+    "basic": false,
+    "name": "M249 Red"
+  },
+  "tfa_cso_trinity_knockback": {
+    "price": 35000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_trinity_knockback.mdl",
+    "basic": false,
+    "name": "Trinity - Knockback"
+  },
+  "tfa_cso_wa2000gs": {
+    "price": 670000,
+    "slot": 4,
+    "parent": "tfa_cso_wa2000_gold",
+    "deep": 5,
+    "model": "models/weapons/tfa_cso/w_wa2000gs.mdl",
+    "basic": false,
+    "name": "Walther WA2000 10th Anniversary"
+  },
+  "tfa_cso_howitzer": {
+    "price": 850000,
+    "slot": 5,
+    "parent": "tfa_cso_m777",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_howitzer.mdl",
+    "basic": false,
+    "name": "Brick Piece M777 (B Mode)"
+  },
+  "tfa_cso_m1887xmas": {
+    "price": 100000,
+    "slot": 4,
+    "parent": "tfa_cso_m1887",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m1887xmas.mdl",
+    "basic": false,
+    "name": "Winchester M1887 Christmas Edition"
+  },
+  "tfa_cso_qbb95ex": {
+    "price": 5300,
+    "slot": 4,
+    "parent": "tfa_cso_qbb95",
+    "deep": 2,
+    "model": "models/weapons/w_mach_m249para.mdl",
+    "basic": false,
+    "name": "QBB-95EX"
+  },
+  "tfa_cso_bqbb95": {
+    "price": 28000,
+    "slot": 4,
+    "parent": "tfa_cso_qbb95ex",
+    "deep": 3,
+    "model": "models/weapons/w_mach_m249para.mdl",
+    "basic": false,
+    "name": "Battle QBB-95"
+  },
+  "tfa_cso_m3shark": {
+    "price": 980000,
+    "slot": 4,
+    "parent": "tfa_cso_m3",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m3shark.mdl",
+    "basic": false,
+    "name": "M3 Big Shark"
+  },
+  "tfa_cso_f2000": {
+    "price": 4800,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_f2000.mdl",
+    "basic": true,
+    "name": "FN F2000"
+  },
+  "tfa_cso_usas12": {
+    "price": 5000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_usas12camo.mdl",
+    "basic": true,
+    "name": "USAS-12"
+  },
+  "tfa_cso_svd": {
+    "price": 7200,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_snip_awp.mdl",
+    "basic": true,
+    "name": "Dragunov SVD"
+  },
+  "tfa_cso_dualsword": {
+    "price": 670000,
+    "slot": 1,
+    "parent": "tfa_cso_budgetsword",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dualsword_thunder.mdl",
+    "basic": false,
+    "name": "Dual Sword Phantom Slayer"
+  },
+  "tfa_cso_kriss_v": {
+    "price": 2600,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_kriss.mdl",
+    "basic": true,
+    "name": "Kriss Super V"
+  },
+  "tfa_cso_plasmagun": {
+    "price": 164000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_plasmagun.mdl",
+    "basic": false,
+    "name": "Plasma Gun"
+  },
+  "tfa_cso_volcano_v6": {
+    "price": 1350000,
+    "slot": 4,
+    "parent": "tfa_cso_volcano",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_volcano_v6.mdl",
+    "basic": false,
+    "name": "Volcano Expert"
+  },
+  "tfa_cso_tbarrel": {
+    "price": 131000,
+    "slot": 4,
+    "parent": "tfa_cso_dbarrel",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_tbarrel.mdl",
+    "basic": false,
+    "name": "Triple-barreled shotgun"
+  },
+  "tfa_cso_stg44_expert": {
+    "price": 183000,
+    "slot": 3,
+    "parent": "tfa_cso_stg44",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_stg44_v6.mdl",
+    "basic": false,
+    "name": "STG44 Expert"
+  },
+  "tfa_cso_m1887_gold": {
+    "price": 684000,
+    "slot": 4,
+    "parent": "tfa_cso_m1887_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_m1887_gold.mdl",
+    "basic": false,
+    "name": "Winchester M1887 - Gold"
+  },
+  "tfa_cso_thompson_chicago": {
+    "price": 3600,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_thompson_chicago.mdl",
+    "basic": true,
+    "name": "Thompson Chicago"
+  },
+  "tfa_cso_oicw": {
+    "price": 7200,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_oicw.mdl",
+    "basic": true,
+    "name": "OICW"
+  },
+  "tfa_cso_savery": {
+    "price": 9700,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_savery.mdl",
+    "basic": true,
+    "name": "Savery"
+  },
+  "tfa_cso_aw50": {
+    "price": 32000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_aw50.mdl",
+    "basic": true,
+    "name": "AI AW50F"
+  },
+  "tfa_cso_janus3b": {
+    "price": 800000,
+    "slot": 3,
+    "parent": "tfa_cso_janus3a",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_janus3.mdl",
+    "basic": false,
+    "name": "JANUS-3 (B Mode)"
+  },
+  "tfa_cso_usp": {
+    "price": 300,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_pist_usp.mdl",
+    "basic": true,
+    "name": "USP45"
+  },
+  "tfa_cso_hk23_expert": {
+    "price": 49000,
+    "slot": 4,
+    "parent": "tfa_cso_hk23",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_hk23_v6.mdl",
+    "basic": false,
+    "name": "HK23E Expert"
+  },
+  "tfa_cso_m95": {
+    "price": 40000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m95.mdl",
+    "basic": true,
+    "name": "M95"
+  },
+  "tfa_cso_mg36_xmas": {
+    "price": 250000,
+    "slot": 4,
+    "parent": "tfa_cso_mg36",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mg36_xmas.mdl",
+    "basic": false,
+    "name": "MG36 XMAS"
+  },
+  "tfa_cso_darkknight_v8": {
+    "price": 680000,
+    "slot": 3,
+    "parent": "tfa_cso_darkknight_v6",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_darkknight_v8.mdl",
+    "basic": false,
+    "name": "M4A1 Tyrant Expert"
+  },
+  "tfa_cso_kh2002": {
+    "price": 3700,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_kh2002.mdl",
+    "basic": true,
+    "name": "KH-2002"
+  },
+  "tfa_cso_stg44": {
+    "price": 3150,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_stg44.mdl",
+    "basic": true,
+    "name": "STG44"
+  },
+  "tfa_cso_dualinfinity": {
+    "price": 3000,
+    "slot": 2,
+    "parent": "tfa_cso_infinite_silver",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_infinity_black.mdl",
+    "basic": false,
+    "name": "Dual Infinity"
+  },
+  "tfa_cso_akm": {
+    "price": 2800,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_akm.mdl",
+    "basic": true,
+    "name": "AKM"
+  },
+  "tfa_cso_crow3": {
+    "price": 49000,
+    "slot": 3,
+    "parent": "tfa_cso_bizon",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_crow3.mdl",
+    "basic": false,
+    "name": "CROW-3"
+  },
+  "tfa_cso_laserminigun": {
+    "price": 1600000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_laserminigun.mdl",
+    "basic": false,
+    "name": "Laser Minigun"
+  },
+  "tfa_cso_elite": {
+    "price": 500,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_pist_elite.mdl",
+    "basic": true,
+    "name": "Dual Elites"
+  },
+  "tfa_cso_sapientia": {
+    "price": 7800,
+    "slot": 2,
+    "parent": "tfa_cso_anaconda",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_sapientia.mdl",
+    "basic": false,
+    "name": "Sapientia"
+  },
+  "tfa_cso_butterflyknife": {
+    "price": 600,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_butterflyknife.mdl",
+    "basic": true,
+    "name": "Balisong"
+  },
+  "tfa_cso_cameragun": {
+    "price": 72000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_cameragun.mdl",
+    "basic": false,
+    "name": "Lightning HMG-1"
+  },
+  "tfa_cso_x-12": {
+    "price": 24000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_x-12.mdl",
+    "basic": false,
+    "name": "Hunter Killer X-12"
+  },
+  "tfa_cso_cyclone": {
+    "price": 875000,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_cyclone.mdl",
+    "basic": false,
+    "name": "Cyclone"
+  },
+  "tfa_cso_falconex": {
+    "price": 698000,
+    "slot": 4,
+    "parent": "tfa_cso_falcon",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_falconex.mdl",
+    "basic": false,
+    "name": "Power Falcon"
+  },
+  "tfa_cso_plasmagun_v6": {
+    "price": 384000,
+    "slot": 3,
+    "parent": "tfa_cso_plasmagun",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_plasmagun_v6.mdl",
+    "basic": false,
+    "name": "Plasma Gun Chimera"
+  },
+  "tfa_cso_mp5tiger": {
+    "price": 35000,
+    "slot": 3,
+    "parent": "tfa_cso_mp5",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mp5tiger.mdl",
+    "basic": false,
+    "name": "MP5 White Tiger"
+  },
+  "tfa_cso_mk48_expert": {
+    "price": 293000,
+    "slot": 4,
+    "parent": "tfa_cso_mk48",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mk48_expert.mdl",
+    "basic": false,
+    "name": "FN MK48 - Expert"
+  },
+  "tfa_cso_tornadoc": {
+    "price": 1250000,
+    "slot": 3,
+    "parent": "tfa_cso_tornadob",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_tornado.mdl",
+    "basic": false,
+    "name": "Tornado (Fully Charged)"
+  },
+  "tfa_cso_crossbowex": {
+    "price": 342000,
+    "slot": 4,
+    "parent": "tfa_cso_crossbow",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_crossbowex.mdl",
+    "basic": false,
+    "name": "Crossbow Advance"
+  },
+  "tfa_cso_m249ep": {
+    "price": 205000,
+    "slot": 4,
+    "parent": "tfa_cso_m249_xmas",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_m249ep.mdl",
+    "basic": false,
+    "name": "M249 Veteran"
+  },
+  "tfa_cso_dbarrel_g": {
+    "price": 430000,
+    "slot": 4,
+    "parent": "tfa_cso_dbarrel",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dbarrel_g.mdl",
+    "basic": false,
+    "name": "Double-barreled shotgun Gold Edition"
+  },
+  "tfa_cso_fragnade": {
+    "price": 6000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_fragnade.mdl",
+    "basic": true,
+    "name": "M67 Frag Grenade"
+  },
+  "tfa_cso_usp_red": {
+    "price": 5400,
+    "slot": 2,
+    "parent": "tfa_cso_usp",
+    "deep": 2,
+    "model": "models/weapons/w_pist_usp.mdl",
+    "basic": false,
+    "name": "USP45 Red"
+  },
+  "tfa_cso_ak47gs": {
+    "price": 385000,
+    "slot": 3,
+    "parent": "tfa_cso_g_ak47",
+    "deep": 6,
+    "model": "models/weapons/tfa_cso/w_ak47gs.mdl",
+    "basic": false,
+    "name": "AK-47 10th Anniversary"
+  },
+  "tfa_cso_fglauncher": {
+    "price": 53000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_fglauncher.mdl",
+    "basic": false,
+    "name": "FG-Launcher"
+  },
+  "tfa_cso_janus5b": {
+    "price": 1400000,
+    "slot": 3,
+    "parent": "tfa_cso_janus5a",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_janus5.mdl",
+    "basic": false,
+    "name": "JANUS-5 (B Mode)"
+  },
+  "tfa_cso_xm2010_v6": {
+    "price": 230000,
+    "slot": 4,
+    "parent": "tfa_cso_xm2010",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_xm2010_v6.mdl",
+    "basic": false,
+    "name": "Remington XM2010 ESR Expert"
+  },
+  "tfa_cso_violingun": {
+    "price": 49000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_violingun.mdl",
+    "basic": false,
+    "name": "Lightning AR-2"
+  },
+  "tfa_cso_gungnir": {
+    "price": 20000000,
+    "slot": 4,
+    "parent": "tfa_cso_gungnir_nrm",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_gungnirb.mdl",
+    "basic": false,
+    "name": "Gungnir (True Form)"
+  },
+  "tfa_cso_magnumdrill_expert": {
+    "price": 995000,
+    "slot": 4,
+    "parent": "tfa_cso_magnumdrill",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_magnum_drill_expert.mdl",
+    "basic": false,
+    "name": "Magnum Drill Expert"
+  },
+  "tfa_cso_magnumdrillg": {
+    "price": 1250000,
+    "slot": 4,
+    "parent": "tfa_cso_magnumdrill_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_magnum_drillg.mdl",
+    "basic": false,
+    "name": "Magnum Drill Gold"
+  },
+  "tfa_cso_magnumdrill": {
+    "price": 478000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_magnum_drill.mdl",
+    "basic": false,
+    "name": "Magnum Drill"
+  },
+  "tfa_cso_infinite_red": {
+    "price": 4200,
+    "slot": 2,
+    "parent": "tfa_cso_infinite_silver",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_infinity_red.mdl",
+    "basic": false,
+    "name": "Infinity Red"
+  },
+  "tfa_cso_groza_expert": {
+    "price": 65000,
+    "slot": 3,
+    "parent": "tfa_cso_groza",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_groza_v6.mdl",
+    "basic": false,
+    "name": "OTs-14 Groza Expert"
+  },
+  "tfa_cso_coldsteelblade": {
+    "price": 600,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_cold_steel_knife.mdl",
+    "basic": true,
+    "name": "Cold Steel Knife"
+  },
+  "tfa_cso_crimson_hunter": {
+    "price": 612000,
+    "slot": 2,
+    "parent": "tfa_cso_deagle",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_crimson_hunter.mdl",
+    "basic": false,
+    "name": "Desert Eagle Crimson Hunter"
+  },
+  "tfa_cso_m134_zhubajie": {
+    "price": 685000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_monkeywpnset1.mdl",
+    "basic": false,
+    "name": "Zhu Bajie Minigun"
+  },
+  "tfa_cso_ump45": {
+    "price": 2500,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_smg_ump45.mdl",
+    "basic": true,
+    "name": "UMP45"
+  },
+  "tfa_cso_groza_master": {
+    "price": 6000,
+    "slot": 3,
+    "parent": "tfa_cso_groza_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_groza_v8.mdl",
+    "basic": false,
+    "name": "OTs-14 Groza Master"
+  },
+  "tfa_cso_janus9": {
+    "price": 3900,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_janus9.mdl",
+    "basic": false,
+    "name": "JANUS-9"
+  },
+  "tfa_cso_tmp": {
+    "price": 1900,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_tmp.mdl",
+    "basic": true,
+    "name": "TMP"
+  },
+  "tfa_cso_infinite_silver": {
+    "price": 600,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_infinity_silver.mdl",
+    "basic": true,
+    "name": "Infinity Silver"
+  },
+  "tfa_cso_mk3a1_flame": {
+    "price": 637000,
+    "slot": 4,
+    "parent": "tfa_cso_mk3a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mk3a1_flame.mdl",
+    "basic": false,
+    "name": "MK3A1 Flame"
+  },
+  "tfa_cso_awpcamo": {
+    "price": 268000,
+    "slot": 4,
+    "parent": "tfa_cso_awp_red",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_awpcamo.mdl",
+    "basic": false,
+    "name": "AWP Camouflage"
+  },
+  "tfa_cso_awp_red": {
+    "price": 57000,
+    "slot": 4,
+    "parent": "tfa_cso_awp",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_awpxmas.mdl",
+    "basic": false,
+    "name": "AWP Red"
+  },
+  "tfa_cso_crimson_hunter_expert": {
+    "price": 910000,
+    "slot": 2,
+    "parent": "tfa_cso_crimson_hunter",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_crimson_hunter_expert.mdl",
+    "basic": false,
+    "name": "Desert Eagle Crimson Hunter Expert"
+  },
+  "tfa_cso_arx160": {
+    "price": 4200,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_arx160.mdl",
+    "basic": true,
+    "name": "Beretta ARX-160"
+  },
+  "tfa_cso_thanatos9": {
+    "price": 41000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_thanatos_9.mdl",
+    "basic": false,
+    "name": "THANATOS-9"
+  },
+  "tfa_cso_budgetsword": {
+    "price": 210000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_budgetsword_hell.mdl",
+    "basic": false,
+    "name": "Dual Sword Hellfire"
+  },
+  "tfa_cso_janus11b": {
+    "price": 683000,
+    "slot": 4,
+    "parent": "tfa_cso_janus11a",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_janus11.mdl",
+    "basic": false,
+    "name": "JANUS-11 (B Mode)"
+  },
+  "tfa_cso_sten_mk2": {
+    "price": 2000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_sten_mk2.mdl",
+    "basic": true,
+    "name": "Sten Mk2"
+  },
+  "tfa_cso_trg42": {
+    "price": 20000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_trg42.mdl",
+    "basic": true,
+    "name": "SAKO TRG-42"
+  },
+  "tfa_cso_janus11a": {
+    "price": 187000,
+    "slot": 4,
+    "parent": "tfa_cso_uts15",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_janus11.mdl",
+    "basic": false,
+    "name": "JANUS-11 (A Mode)"
+  },
+  "tfa_cso_balrog1": {
+    "price": 43000,
+    "slot": 2,
+    "parent": "tfa_cso_automagv",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_balrog_1.mdl",
+    "basic": false,
+    "name": "BALROG-I"
+  },
+  "tfa_cso_trg42gs": {
+    "price": 692000,
+    "slot": 4,
+    "parent": "tfa_cso_trg42g",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_trg42gs.mdl",
+    "basic": false,
+    "name": "SAKO TRG-42 10th Anniversary"
+  },
+  "tfa_cso_galilcraft": {
+    "price": 16500,
+    "slot": 3,
+    "parent": "tfa_cso_galil",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_galilcraft.mdl",
+    "basic": false,
+    "name": "Galil Maverick"
+  },
+  "tfa_cso_stunriflec": {
+    "price": 869000,
+    "slot": 4,
+    "parent": "tfa_cso_stunrifleb",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_stunrifle.mdl",
+    "basic": false,
+    "name": "Stun Rifle (Fully Charged)"
+  },
+  "tfa_cso_m4a1g": {
+    "price": 59000,
+    "slot": 3,
+    "parent": "tfa_cso_m4a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_g_m4a1.mdl",
+    "basic": false,
+    "name": "M4A1 Scope"
+  },
+  "tfa_cso_deaglered": {
+    "price": 4900,
+    "slot": 2,
+    "parent": "tfa_cso_deagle",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_deserteaglered.mdl",
+    "basic": false,
+    "name": "Desert Eagle Red"
+  },
+  "tfa_cso_deaglewg": {
+	"price": 41000,
+	"slot": 2,
+	"parent": "tfa_cso_deaglered",
+	"deep": 3,
+	"model": "models/weapons/tfa_cso/w_deaglewg.mdl",
+	"basic": false,
+	"name": "Desert Eagle White Gold"
+  },
+  "tfa_cso_pkm_gold": {
+    "price": 398000,
+    "slot": 4,
+    "parent": "tfa_cso_pkm_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_pkmg.mdl",
+    "basic": false,
+    "name": "PKM Gold"
+  },
+  "tfa_cso_skull3_a": {
+    "price": 48000,
+    "slot": 3,
+    "parent": "tfa_cso_ump45",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_skull_3.mdl",
+    "basic": false,
+    "name": "SKULL-3 (A Mode)"
+  },
+  "tfa_cso_m134_vulcan": {
+    "price": 710000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m134_vulcan.mdl",
+    "basic": false,
+    "name": "M134 Vulcan"
+  },
+  "tfa_cso_qbs09": {
+    "price": 3500,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_qbs_09.mdl",
+    "basic": true,
+    "name": "QBS-09"
+  },
+  "tfa_cso_bazooka": {
+    "price": 97000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_bazooka.mdl",
+    "basic": true,
+    "name": "Bazooka"
+  },
+  "tfa_cso_m16a1ep": {
+    "price": 26000,
+    "slot": 3,
+    "parent": "tfa_cso_m16a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m16a1ep.mdl",
+    "basic": false,
+    "name": "M16A1 Veteran"
+  },
+  "tfa_cso_umbrella": {
+    "price": 43000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_umbrella.mdl",
+    "basic": false,
+    "name": "Lightning SG-1"
+  },
+  "tfa_cso_runebreaker_expert": {
+    "price": 247000,
+    "slot": 1,
+    "parent": "tfa_cso_runebreaker",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_runebreaker_expert.mdl",
+    "basic": false,
+    "name": "Runebreaker - Expert"
+  },
+  "tfa_cso_s1451": {
+    "price": 18700,
+    "slot": 2,
+    "parent": "tfa_cso_uzi",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_s1451.mdl",
+    "basic": false,
+    "name": "Brick Piece S1451 (A Mode)"
+  },
+  "tfa_cso_mg3g": {
+    "price": 671000,
+    "slot": 4,
+    "parent": "tfa_cso_mg3_v8",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_mg3g.mdl",
+    "basic": false,
+    "name": "MG3 Gold"
+  },
+  "tfa_cso_m14ebr_expert": {
+    "price": 132000,
+    "slot": 3,
+    "parent": "tfa_cso_m14ebr",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m14_v6.mdl",
+    "basic": false,
+    "name": "M14 EBR Expert"
+  },
+  "tfa_cso_katyusha": {
+    "price": 650000,
+    "slot": 5,
+    "parent": "tfa_cso_s1451",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_katyusha.mdl",
+    "basic": false,
+    "name": "Brick Piece S1451 (B Mode)"
+  },
+  "tfa_cso_avalanche": {
+    "price": 138000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_avalanche.mdl",
+    "basic": false,
+    "name": "Avalanche"
+  },
+  "tfa_cso_stormgiant_tw": {
+    "price": 610000,
+    "slot": 1,
+    "parent": "tfa_cso_stormgiant",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_storm_giant_tw.mdl",
+    "basic": false,
+    "name": "Warhammer Storm Giant Bloodlord"
+  },
+  "tfa_cso_stormgiant_v8": {
+    "price": 700000,
+    "slot": 1,
+    "parent": "tfa_cso_stormgiant_tw",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_stormgiant_v8.mdl",
+    "basic": false,
+    "name": "Warhammer Storm Giant Expert"
+  },
+  "tfa_cso_balrog3": {
+    "price": 49000,
+    "slot": 3,
+    "parent": "tfa_cso_mp5",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_balrog_3.mdl",
+    "basic": false,
+    "name": "BALROG-III"
+  },
+  "tfa_cso_mp7unicorn": {
+    "price": 6700,
+    "slot": 3,
+    "parent": "tfa_cso_mp7a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mp7unicorn.mdl",
+    "basic": false,
+    "name": "MP7A1 Unicorn"
+  },
+  "tfa_cso_mg42": {
+    "price": 12500,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mg42.mdl",
+    "basic": true,
+    "name": "MG42"
+  },
+  "tfa_cso_thanatos3": {
+    "price": 38000,
+    "slot": 3,
+    "parent": "tfa_cso_mp7a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_thanatos_3.mdl",
+    "basic": false,
+    "name": "THANATOS-3"
+  },
+  "tfa_cso_crow5": {
+    "price": 62000,
+    "slot": 3,
+    "parent": "tfa_cso_tar_21",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_crow5.mdl",
+    "basic": false,
+    "name": "CROW-5"
+  },
+  "tfa_cso_m249": {
+    "price": 5700,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m249.mdl",
+    "basic": true,
+    "name": "M249"
+  },
+  "tfa_cso_mg36g": {
+    "price": 394000,
+    "slot": 4,
+    "parent": "tfa_cso_mg36",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mg36g.mdl",
+    "basic": false,
+    "name": "MG36 Gold Edition"
+  },
+  "tfa_cso_rpg7": {
+    "price": 35000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_rpg7.mdl",
+    "basic": true,
+    "name": "RPG-7"
+  },
+  "tfa_cso_hk121_custom": {
+    "price": 691000,
+    "slot": 4,
+    "parent": "tfa_cso_hk121",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_hk121_custom.mdl",
+    "basic": false,
+    "name": "HK121 Custom"
+  },
+  "tfa_cso_tmpdragon": {
+    "price": 29500,
+    "slot": 3,
+    "parent": "tfa_cso_tmp",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_tmpdragon.mdl",
+    "basic": false,
+    "name": "TMP Dragon"
+  },
+  "tfa_cso_as50": {
+    "price": 34000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_snip_awp.mdl",
+    "basic": true,
+    "name": "AI AS50"
+  },
+  "tfa_cso_paladin": {
+    "price": 192000,
+    "slot": 3,
+    "parent": "tfa_cso_ak47",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_paladin.mdl",
+    "basic": false,
+    "name": "AK-47 Paladin"
+  },
+  "tfa_cso_glock_red": {
+    "price": 3200,
+    "slot": 2,
+    "parent": "tfa_cso_glock",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_glock_red.mdl",
+    "basic": false,
+    "name": "Glock 18 Red"
+  },
+  "tfa_cso_arx160_expert": {
+    "price": 39000,
+    "slot": 3,
+    "parent": "tfa_cso_arx160",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_arx160_expert.mdl",
+    "basic": false,
+    "name": "Beretta ARX-160 Expert"
+  },
+  "tfa_cso_mp5": {
+    "price": 1800,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_smg_mp5.mdl",
+    "basic": true,
+    "name": "MP5"
+  },
+  "tfa_cso_vsk94": {
+    "price": 7200,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_rif_sg552.mdl",
+    "basic": true,
+    "name": "VSK-94"
+  },
+  "tfa_cso_deagle": {
+    "price": 700,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_pist_deagle.mdl",
+    "basic": true,
+    "name": "Desert Eagle"
+  },
+  "tfa_cso_ak47": {
+    "price": 2700,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_ak47.mdl",
+    "basic": true,
+    "name": "AK-47"
+  },
+  "tfa_cso_uts15_v6": {
+    "price": 39000,
+    "slot": 4,
+    "parent": "tfa_cso_uts15",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_uts15_v6.mdl",
+    "basic": false,
+    "name": "UTS-15 Expert"
+  },
+  "tfa_cso_darkknight_v6": {
+    "price": 867000,
+    "slot": 3,
+    "parent": "tfa_cso_darkknight",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_dark_knight_overlord.mdl",
+    "basic": false,
+    "name": "M4A1 Tyrant"
+  },
+  "tfa_cso_ak47_dragon": {
+    "price": 6300,
+    "slot": 3,
+    "parent": "tfa_cso_ak47",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_ak47_dragon.mdl",
+    "basic": false,
+    "name": "AK-47 Dragon"
+  },
+  "tfa_cso_dualtacknife": {
+    "price": 8000,
+    "slot": 2,
+    "parent": "tfa_cso_tacticalknife",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_tknifeex.mdl",
+    "basic": false,
+    "name": "Double Tactical Knife"
+  },
+  "tfa_cso_speargun_v6": {
+    "price": 748000,
+    "slot": 2,
+    "parent": "tfa_cso_speargun",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_speargun_v6.mdl",
+    "basic": false,
+    "name": "Gae Bolg Chimera"
+  },
+  "tfa_cso_g_deagle": {
+    "price": 86000,
+    "slot": 2,
+    "parent": "tfa_cso_deaglewg",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_g_deagle.mdl",
+    "basic": false,
+    "name": "Desert Eagle Gold"
+  },
+  "tfa_cso_crow7": {
+    "price": 39500,
+    "slot": 4,
+    "parent": "tfa_cso_mg36",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_crow7.mdl",
+    "basic": false,
+    "name": "CROW-7"
+  },
+  "tfa_cso_g_ak47": {
+    "price": 71000,
+    "slot": 3,
+    "parent": "tfa_cso_ak47wg",
+    "deep": 5,
+    "model": "models/weapons/tfa_cso/w_ak47g.mdl",
+    "basic": false,
+    "name": "AK-47 Gold"
+  },
+  "tfa_cso_milkorm32": {
+    "price": 178000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m32.mdl",
+    "basic": true,
+    "name": "Milkor M32 MGL"
+  },
+  "tfa_cso_speargun": {
+    "price": 398000,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_speargun.mdl",
+    "basic": false,
+    "name": "Gae Bolg"
+  },
+  "tfa_cso_hk121": {
+    "price": 5900,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_hk121.mdl",
+    "basic": true,
+    "name": "HK121"
+  },
+  "tfa_cso_magnum_lancer": {
+    "price": 3500000,
+    "slot": 4,
+    "parent": "tfa_cso_ballista",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_magnum_lancer.mdl",
+    "basic": false,
+    "name": "Magnum Launcher"
+  },
+  "tfa_cso_magnumlauncher_gs18": {
+    "price": 3500000,
+    "slot": 4,
+    "parent": "tfa_cso_magnum_lancer",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_magnumlauncher_gs18.mdl",
+    "basic": false,
+    "name": "Magnum Launcher Global Showcase 2018"
+  },
+  "tfa_cso_mg36": {
+    "price": 5150,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mg36.mdl",
+    "basic": true,
+    "name": "MG36"
+  },
+  "tfa_cso_trg42g": {
+    "price": 72000,
+    "slot": 4,
+    "parent": "tfa_cso_trg42",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_trg42g.mdl",
+    "basic": false,
+    "name": "SAKO TRG-42 White Gold"
+  },
+  "tfa_cso_railcannon": {
+    "price": 1450000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_railcannon.mdl",
+    "basic": false,
+    "name": "Rail Cannon"
+  },
+  "tfa_cso_crow11": {
+    "price": 43000,
+    "slot": 4,
+    "parent": "tfa_cso_usas12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_crow11.mdl",
+    "basic": false,
+    "name": "CROW-11"
+  },
+  "tfa_cso_spas12exb": {
+    "price": 394000,
+    "slot": 4,
+    "parent": "tfa_cso_spas12ex",
+    "deep": 3,
+    "model": "models/weapons/w_shot_m3super90.mdl",
+    "basic": false,
+    "name": "SPAS-12 Deluxe (B Mode)"
+  },
+  "tfa_cso_m2_v6": {
+    "price": 63000,
+    "slot": 4,
+    "parent": "tfa_cso_m2",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m2_v6.mdl",
+    "basic": false,
+    "name": "M2 Expert"
+  },
+  "tfa_cso_ruyi": {
+    "price": 9500,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_monkeywpnset3.mdl",
+    "basic": false,
+    "name": "Ruyi Stick"
+  },
+  "tfa_cso_desperado_v6": {
+    "price": 1600000,
+    "slot": 2,
+    "parent": "tfa_cso_desperado",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_desperado_men_v6.mdl",
+    "basic": false,
+    "name": "Python Desperado Expert"
+  },
+  "tfa_cso_m16a4": {
+    "price": 3000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m16a4.mdl",
+    "basic": true,
+    "name": "M16A4"
+  },
+  "tfa_cso_savery_v6": {
+    "price": 274000,
+    "slot": 4,
+    "parent": "tfa_cso_savery",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_savery_v6.mdl",
+    "basic": false,
+    "name": "Savery Expert"
+  },
+  "tfa_cso_uzi": {
+    "price": 1000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_uzi.mdl",
+    "basic": true,
+    "name": "UZI"
+  },
+  "tfa_cso_mosin": {
+    "price": 1900,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mosin.mdl",
+    "basic": true,
+    "name": "Mosin Nagant"
+  },
+  "tfa_cso_g3sg1": {
+    "price": 5000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_snip_g3sg1.mdl",
+    "basic": true,
+    "name": "HK G3SG-1"
+  },
+  "tfa_cso_luger_silver": {
+    "price": 397000,
+    "slot": 2,
+    "parent": "tfa_cso_luger_gold",
+    "deep": 5,
+    "model": "models/weapons/tfa_cso/w_luger_silver.mdl",
+    "basic": false,
+    "name": "Luger P08 - Silver"
+  },
+  "tfa_cso_m2": {
+    "price": 7800,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m2.mdl",
+    "basic": true,
+    "name": "M2"
+  },
+  "tfa_cso_gilboa_viper": {
+    "price": 86000,
+    "slot": 3,
+    "parent": "tfa_cso_gilboa",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_gilboa_viper.mdl",
+    "basic": false,
+    "name": "Gilboa Viper"
+  },
+  "tfa_cso_stg44g": {
+    "price": 497000,
+    "slot": 3,
+    "parent": "tfa_cso_stg44_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_stg44g.mdl",
+    "basic": false,
+    "name": "STG44 Gold Edition"
+  },
+  "tfa_cso_tornadob": {
+    "price": 750000,
+    "slot": 3,
+    "parent": "tfa_cso_tornadoa",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_tornado.mdl",
+    "basic": false,
+    "name": "Tornado (Charging)"
+  },
+  "tfa_cso_m4a1dragon": {
+    "price": 9900,
+    "slot": 3,
+    "parent": "tfa_cso_m4a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m4a1dragon.mdl",
+    "basic": false,
+    "name": "M4A1 Dragon"
+  },
+  "tfa_cso_m14ebr": {
+    "price": 4200,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m14.mdl",
+    "basic": true,
+    "name": "M14 EBR"
+  },
+  "tfa_cso_sealknife": {
+    "price": 300,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_sealknife.mdl",
+    "basic": true,
+    "name": "Seal Knife"
+  },
+  "tfa_cso_g11_v8": {
+    "price": 264000,
+    "slot": 3,
+    "parent": "tfa_cso_g11_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_g11_v8.mdl",
+    "basic": false,
+    "name": "HK G11 Master"
+  },
+  "tfa_cso_holybomb": {
+    "price": 8000,
+    "slot": 5,
+    "parent": "tfa_cso_fragnade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_holybomb.mdl",
+    "basic": false,
+    "name": "Holy Bomb"
+  },
+  "tfa_cso_bow": {
+    "price": 658000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_compound.mdl",
+    "basic": true,
+    "name": "Compound Bow"
+  },
+  "tfa_cso_m4a1": {
+    "price": 3100,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m4a1.mdl",
+    "basic": true,
+    "name": "M4A1"
+  },
+  "tfa_cso_m2_v8": {
+    "price": 386000,
+    "slot": 4,
+    "parent": "tfa_cso_m2_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m2_v8.mdl",
+    "basic": false,
+    "name": "M2 Master"
+  },
+  "tfa_cso_arx160_master": {
+    "price": 693000,
+    "slot": 3,
+    "parent": "tfa_cso_arx160_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_arx160_master.mdl",
+    "basic": false,
+    "name": "Beretta ARX-160 Master"
+  },
+  "tfa_cso_mooncake": {
+    "price": 6500,
+    "slot": 5,
+    "parent": "tfa_cso_fragnade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mooncake.mdl",
+    "basic": false,
+    "name": "Mooncake"
+  },
+  "tfa_cso_automagv": {
+    "price": 800,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_automagv.mdl",
+    "basic": true,
+    "name": "AutoMag V"
+  },
+  "tfa_cso_tempest": {
+    "price": 38000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_tempest.mdl",
+    "basic": false,
+    "name": "Tempest"
+  },
+  "tfa_cso_m95tiger": {
+    "price": 3700000,
+    "slot": 4,
+    "parent": "tfa_cso_m95ghost",
+    "deep": 5,
+    "model": "models/weapons/tfa_cso/w_m95tiger.mdl",
+    "basic": false,
+    "name": "M95 White Tiger"
+  },
+  "tfa_cso_m60craft": {
+    "price": 364000,
+    "slot": 4,
+    "parent": "tfa_cso_m60",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m60craft.mdl",
+    "basic": false,
+    "name": "M60E4 Maverick"
+  },
+  "tfa_cso_xm8_sharpshooter": {
+    "price": 18000,
+    "slot": 3,
+    "parent": "tfa_cso_xm8",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_xm8sharpshooter.mdl",
+    "basic": false,
+    "name": "XM8 Sharpshooter"
+  },
+  "tfa_cso_scar_l": {
+    "price": 4000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_scarl.mdl",
+    "basic": true,
+    "name": "SCAR-L"
+  },
+  "tfa_cso_blaster": {
+    "price": 41000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_blaster.mdl",
+    "basic": false,
+    "name": "Blaster"
+  },
+  "tfa_cso_vulcanus1_a": {
+    "price": 26000,
+    "slot": 2,
+    "parent": "tfa_cso_m1911a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_vulcanus_1.mdl",
+    "basic": false,
+    "name": "VULCANUS-1 (A-Mode)"
+  },
+  "tfa_cso_guitar": {
+    "price": 43000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_guitar.mdl",
+    "basic": false,
+    "name": "Lightning AR-1"
+  },
+  "tfa_cso_l85a2": {
+    "price": 3600,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_l85a2.mdl",
+    "basic": true,
+    "name": "L85A2"
+  },
+  "tfa_cso_snap_blade": {
+    "price": 3600,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_snap_blade.mdl",
+    "basic": true,
+    "name": "Snap Blade"
+  },
+  "tfa_cso_skull2": {
+    "price": 298000,
+    "slot": 2,
+    "parent": "tfa_cso_skull1",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_skull_2.mdl",
+    "basic": false,
+    "name": "SKULL-2"
+  },
+  "tfa_cso_stunriflea": {
+    "price": 230000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_stunrifle.mdl",
+    "basic": false,
+    "name": "Stun Rifle (No Charge)"
+  },
+  "tfa_cso_tritacknife": {
+    "price": 19000,
+    "slot": 2,
+    "parent": "tfa_cso_dualtacknife",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_tritacknife.mdl",
+    "basic": false,
+    "name": "Triple Tactical Knife"
+  },
+  "tfa_cso_combatknife": {
+    "price": 1200,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_combatknife.mdl",
+    "basic": true,
+    "name": "Soul Bane Dagger"
+  },
+  "tfa_cso_glock": {
+    "price": 300,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_pist_glock18.mdl",
+    "basic": true,
+    "name": "Glock 18"
+  },
+  "tfa_cso_mk48": {
+    "price": 5300,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mk48.mdl",
+    "basic": true,
+    "name": "FN MK48"
+  },
+  "tfa_cso_scout": {
+    "price": 1700,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_snip_scout.mdl",
+    "basic": true,
+    "name": "Steyr Scout"
+  },
+  "tfa_cso_ddeagle": {
+    "price": 2100,
+    "slot": 3,
+    "parent": "tfa_cso_deagle",
+    "deep": 2,
+    "model": "models/weapons/w_pist_elite.mdl",
+    "basic": false,
+    "name": "Dual Desert Eagle"
+  },
+  "tfa_cso_wa2000": {
+    "price": 8000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_wa2000.mdl",
+    "basic": true,
+    "name": "Walther WA2000"
+  },
+  "tfa_cso_sl8": {
+    "price": 6000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_sl8.mdl",
+    "basic": true,
+    "name": "SL8"
+  },
+  "tfa_cso_turbulent7": {
+    "price": 67000,
+    "slot": 4,
+    "parent": "tfa_cso_hk23",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_turbulent_7.mdl",
+    "basic": false,
+    "name": "TURBULENT-7"
+  },
+  "tfa_cso_gilboa": {
+    "price": 3600,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_gilboa.mdl",
+    "basic": true,
+    "name": "Gilboa Carbine"
+  },
+  "tfa_cso_turbulent11": {
+    "price": 56000,
+    "slot": 4,
+    "parent": "tfa_cso_usas12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_turbulent11.mdl",
+    "basic": false,
+    "name": "TURBULENT-11"
+  },
+  "tfa_cso_coilmg": {
+    "price": 365000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_coilmg.mdl",
+    "basic": false,
+    "name": "Coil Machine Gun"
+  },
+  "tfa_cso_watergun": {
+    "price": 68000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_watergun.mdl",
+    "basic": false,
+    "name": "Lightning SMG-1"
+  },
+  "tfa_cso_m1887_expert": {
+    "price": 238000,
+    "slot": 4,
+    "parent": "tfa_cso_m1887",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m1887_expert.mdl",
+    "basic": false,
+    "name": "Winchester M1887 - Expert"
+  },
+  "tfa_cso_spas12ex": {
+    "price": 48000,
+    "slot": 4,
+    "parent": "tfa_cso_spas12",
+    "deep": 2,
+    "model": "models/weapons/w_shot_m3super90.mdl",
+    "basic": false,
+    "name": "SPAS-12 Deluxe (A Mode)"
+  },
+  "tfa_cso_tacticalknife": {
+    "price": 400,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_tknife.mdl",
+    "basic": true,
+    "name": "Tactical Knife"
+  },
+  "tfa_cso_dragoncannon": {
+    "price": 482000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_black_dragon_cannon.mdl",
+    "basic": false,
+    "name": "Black Dragon Cannon"
+  },
+  "tfa_cso_cartblue_b": {
+    "price": 6800,
+    "slot": 3,
+    "parent": "tfa_cso_cartblue_a",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_cartblue_b.mdl",
+    "basic": false,
+    "name": "Lightning Dao-1 (B Mode)"
+  },
+  "tfa_cso_m24grenade": {
+    "price": 6000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m24_grenade.mdl",
+    "basic": true,
+    "name": "M24 Grenade"
+  },
+  "tfa_cso_guardian": {
+    "price": 498000,
+    "slot": 3,
+    "parent": "tfa_cso_aug",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_guardian.mdl",
+    "basic": false,
+    "name": "AUG Guardian"
+  },
+  "tfa_cso_runebreaker": {
+    "price": 168000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_runebreaker.mdl",
+    "basic": false,
+    "name": "Runebreaker"
+  },
+  "tfa_cso_m1887_maverick": {
+    "price": 432000,
+    "slot": 2,
+    "parent": "tfa_cso_m1887",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m1887_maverick.mdl",
+    "basic": false,
+    "name": "M1887 Maverick"
+  },
+  "tfa_cso_mg3_v8": {
+    "price": 415000,
+    "slot": 4,
+    "parent": "tfa_cso_mg3_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_mg3_v8.mdl",
+    "basic": false,
+    "name": "MG3 Master"
+  },
+  "tfa_cso_rainbowkata": {
+    "price": 985000,
+    "slot": 2,
+    "parent": "tfa_cso_gunkata",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_rainbowkata.mdl",
+    "basic": false,
+    "name": "Dual Beretta Gunslinger GS"
+  },
+  "tfa_cso_stunrifleb": {
+    "price": 678000,
+    "slot": 4,
+    "parent": "tfa_cso_stunriflea",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_stunrifle.mdl",
+    "basic": false,
+    "name": "Stun Rifle (Charging)"
+  },
+  "tfa_cso_xtracker": {
+    "price": 250000,
+    "slot": 4,
+    "parent": "tfa_cso_xtracker_nrm",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_xtracker_nrm.mdl",
+    "basic": false,
+    "name": "X-TRACKER (Scoped)"
+  },
+  "tfa_cso_mg3_v6": {
+    "price": 125000,
+    "slot": 4,
+    "parent": "tfa_cso_mg3",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mg3_v6.mdl",
+    "basic": false,
+    "name": "MG3 Expert"
+  },
+  "tfa_cso_vulcanus7": {
+    "price": 87000,
+    "slot": 4,
+    "parent": "tfa_cso_mk48",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_vulcanus7.mdl",
+    "basic": false,
+    "name": "VULCANUS-7"
+  },
+  "tfa_cso_bendita": {
+    "price": 837000,
+    "slot": 4,
+    "parent": "tfa_cso_as50",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_bendita.mdl",
+    "basic": false,
+    "name": "Bendita"
+  },
+  "tfa_cso_skull8": {
+    "price": 75500,
+    "slot": 4,
+    "parent": "tfa_cso_m249",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_skull_8.mdl",
+    "basic": false,
+    "name": "SKULL-8"
+  },
+  "tfa_cso_ksg12_master": {
+    "price": 396000,
+    "slot": 4,
+    "parent": "tfa_cso_ksg12_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_ksg12_master.mdl",
+    "basic": false,
+    "name": "KSG-12 Master"
+  },
+  "tfa_cso_thanatos1": {
+    "price": 6000,
+    "slot": 2,
+    "parent": "tfa_cso_automagv",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_thanatos_1.mdl",
+    "basic": false,
+    "name": "THANATOS-1"
+  },
+  "tfa_cso_k1a": {
+    "price": 2900,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_rif_ak47.mdl",
+    "basic": true,
+    "name": "Daewoo K1A"
+  },
+  "tfa_cso_dualuzi": {
+    "price": 6100,
+    "slot": 3,
+    "parent": "tfa_cso_uzi",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dualuzi.mdl",
+    "basic": false,
+    "name": "Dual Uzi (A Mode)"
+  },
+  "tfa_cso_destroyer": {
+    "price": 2000000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_destroyer.mdl",
+    "basic": false,
+    "name": "Destroyer"
+  },
+  "tfa_cso_janus1b": {
+    "price": 2900000,
+    "slot": 2,
+    "parent": "tfa_cso_janus1a",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_janus1.mdl",
+    "basic": false,
+    "name": "JANUS-1 (B Mode)"
+  },
+  "tfa_cso_m82_v6": {
+    "price": 169000,
+    "slot": 4,
+    "parent": "tfa_cso_m82",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m82_v6.mdl",
+    "basic": false,
+    "name": "Parker Hale M82 Expert"
+  },
+  "tfa_cso_wa2000_gold": {
+    "price": 435000,
+    "slot": 4,
+    "parent": "tfa_cso_wa2000_master",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_wa2000_gold.mdl",
+    "basic": false,
+    "name": "Walther WA2000 - Gold"
+  },
+  "tfa_cso_kingcobra_v8": {
+    "price": 348000,
+    "slot": 2,
+    "parent": "tfa_cso_kingcobra_v6",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_kingcobra_v8.mdl",
+    "basic": false,
+    "name": "King Cobra Master"
+  },
+  "tfa_cso_starchasersr": {
+    "price": 687000,
+    "slot": 4,
+    "parent": "tfa_cso_vsk94",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_starchasersr.mdl",
+    "basic": false,
+    "name": "Star Chaser SR"
+  },
+  "tfa_cso_dualinfinityfinal": {
+    "price": 125000,
+    "slot": 2,
+    "parent": "tfa_cso_infinityex1",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_infinity_redex.mdl",
+    "basic": false,
+    "name": "Dual Infinity Final"
+  },
+  "tfa_cso_groza": {
+    "price": 3050,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_groza.mdl",
+    "basic": true,
+    "name": "OTs-14 Groza"
+  },
+  "tfa_cso_m79_gold": {
+    "price": 438000,
+    "slot": 2,
+    "parent": "tfa_cso_m79",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m79_gold.mdl",
+    "basic": false,
+    "name": "M79 Gold"
+  },
+  "tfa_cso_skull4": {
+    "price": 498000,
+    "slot": 3,
+    "parent": "tfa_cso_spas12maverick",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_skull4.mdl",
+    "basic": false,
+    "name": "SKULL-4"
+  },
+  "tfa_cso_desperado": {
+    "price": 975000,
+    "slot": 2,
+    "parent": "tfa_cso_python",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_desperado_man.mdl",
+    "basic": false,
+    "name": "Python Desperado"
+  },
+  "tfa_cso_dualsword_rb": {
+    "price": 1000000,
+    "slot": 1,
+    "parent": "tfa_cso_budgetsword",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dualsword_thunder_rb.mdl",
+    "basic": false,
+    "name": "Dual Sword Rainbow Caster"
+  },
+  "tfa_cso_ksg12_expert": {
+    "price": 56500,
+    "slot": 4,
+    "parent": "tfa_cso_ksg12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_ksg12_expert.mdl",
+    "basic": false,
+    "name": "KSG-12 Expert"
+  },
+  "tfa_cso_snakegun": {
+    "price": 24000,
+    "slot": 3,
+    "parent": "tfa_cso_ump45",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_snakegun.mdl",
+    "basic": false,
+    "name": "UMP45 Snake"
+  },
+  "tfa_cso_elvenranger": {
+    "price": 2100000,
+    "slot": 4,
+    "parent": "tfa_cso_awp",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_elven_ranger.mdl",
+    "basic": false,
+    "name": "AWP Elven Ranger"
+  },
+  "tfa_cso_stg44_master": {
+    "price": 267000,
+    "slot": 3,
+    "parent": "tfa_cso_stg44_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_stg44_v8.mdl",
+    "basic": false,
+    "name": "STG44 Master"
+  },
+  "tfa_cso_m1911a1": {
+    "price": 300,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_m1911a1.mdl",
+    "basic": true,
+    "name": "M1911 A1"
+  },
+  "tfa_cso_wa2000_expert": {
+    "price": 57000,
+    "slot": 4,
+    "parent": "tfa_cso_wa2000",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_wa2000_expert.mdl",
+    "basic": false,
+    "name": "Walther WA2000 - Expert"
+  },
+  "tfa_cso_pkm_master": {
+    "price": 186000,
+    "slot": 4,
+    "parent": "tfa_cso_pkm_expert",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_pkm_v8.mdl",
+    "basic": false,
+    "name": "PKM Master"
+  },
+  "tfa_cso_dmp7a1": {
+    "price": 5800,
+    "slot": 3,
+    "parent": "tfa_cso_mp7a1",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_mp7a160r.mdl",
+    "basic": false,
+    "name": "Dual MP7A1"
+  },
+  "tfa_cso_luger": {
+    "price": 400,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_luger.mdl",
+    "basic": true,
+    "name": "Luger P08"
+  },
+  "tfa_cso_sl8g": {
+    "price": 26000,
+    "slot": 4,
+    "parent": "tfa_cso_sl8",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_sl8g.mdl",
+    "basic": false,
+    "name": "SL8 Gold"
+  },
+  "tfa_cso_m60_v8": {
+    "price": 872000,
+    "slot": 4,
+    "parent": "tfa_cso_m60_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m60_v8.mdl",
+    "basic": false,
+    "name": "M60E4 Master"
+  },
+  "tfa_cso_x-7": {
+    "price": 57000,
+    "slot": 4,
+    "parent": "tfa_cso_negev",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_x-7.mdl",
+    "basic": false,
+    "name": "Hunter Killer X-7"
+  },
+  "tfa_cso_fnp45": {
+    "price": 400,
+    "slot": 2,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_fnp45.mdl",
+    "basic": true,
+    "name": "FNP-45"
+  },
+  "tfa_cso_fire_vulcan": {
+    "price": 136000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_fire_vulcan.mdl",
+    "basic": false,
+    "name": "Fire Vulcan"
+  },
+  "tfa_cso_m60_v6": {
+    "price": 128000,
+    "slot": 4,
+    "parent": "tfa_cso_m60",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m60_v6.mdl",
+    "basic": false,
+    "name": "M60E4 Expert"
+  },
+  "tfa_cso_an94": {
+    "price": 4900,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_an94.mdl",
+    "basic": true,
+    "name": "AN 94"
+  },
+  "tfa_cso_thunderbolt_v6": {
+    "price": 482000,
+    "slot": 4,
+    "parent": "tfa_cso_thunderbolt",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_thunderbolt_v6.mdl",
+    "basic": false,
+    "name": "Thunderbolt Expert"
+  },
+  "tfa_cso_xm1014": {
+    "price": 2000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/w_shot_xm1014.mdl",
+    "basic": true,
+    "name": "Benelli XM1014"
+  },
+  "tfa_cso_broad": {
+    "price": 68000,
+    "slot": 4,
+    "parent": "tfa_cso_mg3",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_broad.mdl",
+    "basic": false,
+    "name": "Broad Divine"
+  },
+  "tfa_cso_drillgun": {
+    "price": 354000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_drillgun.mdl",
+    "basic": true,
+    "name": "Drill Gun"
+  },
+  "tfa_cso_m950_v8": {
+    "price": 98000,
+    "slot": 2,
+    "parent": "tfa_cso_m950_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_m950_v8.mdl",
+    "basic": false,
+    "name": "Calico M950 Master"
+  },
+  "tfa_cso_volcano": {
+    "price": 582000,
+    "slot": 4,
+    "parent": "tfa_cso_fire_vulcan",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_volcano.mdl",
+    "basic": false,
+    "name": "Volcano"
+  },
+  "tfa_cso_x-45": {
+    "price": 14000,
+    "slot": 2,
+    "parent": "tfa_cso_fnp45",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_x-45.mdl",
+    "basic": false,
+    "name": "Hunter Killer X-45"
+  },
+  "tfa_cso_pumpkin": {
+    "price": 5700,
+    "slot": 5,
+    "parent": "tfa_cso_fragnade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_pumpkin.mdl",
+    "basic": false,
+    "name": "Jack-o'-Lantern"
+  },
+  "tfa_cso_m950_v6": {
+    "price": 34000,
+    "slot": 2,
+    "parent": "tfa_cso_m950",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m950_v6.mdl",
+    "basic": false,
+    "name": "Calico M950 Expert"
+  },
+  "tfa_cso_dragonblade_expert": {
+    "price": 67500,
+    "slot": 1,
+    "parent": "tfa_cso_dragonblade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_dragonblade_expert.mdl",
+    "basic": false,
+    "name": "Green Dragon Blade - Expert"
+  },
+  "tfa_cso_janus1a": {
+    "price": 587000,
+    "slot": 2,
+    "parent": "tfa_cso_m79",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_janus1.mdl",
+    "basic": false,
+    "name": "JANUS-1 (A Mode)"
+  },
+  "tfa_cso_skull11": {
+    "price": 56000,
+    "slot": 4,
+    "parent": "tfa_cso_usas12",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_skull11.mdl",
+    "basic": false,
+    "name": "SKULL-11"
+  },
+  "tfa_cso_nata": {
+    "price": 1050,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_nata.mdl",
+    "basic": true,
+    "name": "Nata Knife"
+  },
+  "tfa_cso_t50": {
+    "price": 248000,
+    "slot": 4,
+    "parent": "tfa_cso_pkm",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_t50.mdl",
+    "basic": false,
+    "name": "Brick Piece T50 (A Mode)"
+  },
+  "tfa_cso_vulcanus5": {
+    "price": 48000,
+    "slot": 3,
+    "parent": "tfa_cso_tar_21",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_vulcanus5.mdl",
+    "basic": false,
+    "name": "VULCANUS-5"
+  },
+  "tfa_cso_jaydagger": {
+    "price": 500000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_jaydagger.mdl",
+    "basic": false,
+    "name": "Jay's Dagger"
+  },
+  "tfa_cso_mp7a1": {
+    "price": 1700,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_mp7a1.mdl",
+    "basic": true,
+    "name": "MP7A1"
+  },
+  "tfa_cso_m249ex": {
+    "price": 168000,
+    "slot": 4,
+    "parent": "tfa_cso_m249",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m249ex.mdl",
+    "basic": false,
+    "name": "SKULL-7"
+  },
+  "tfa_cso_as50_master": {
+    "price": 392000,
+    "slot": 4,
+    "parent": "tfa_cso_as50_expert",
+    "deep": 3,
+    "model": "models/weapons/w_snip_awp.mdl",
+    "basic": false,
+    "name": "AI AS50 Master"
+  },
+  "tfa_cso_balrog11": {
+    "price": 87000,
+    "slot": 4,
+    "parent": "tfa_cso_xm1014",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_balrog_11.mdl",
+    "basic": false,
+    "name": "BALROG-XI"
+  },
+  "tfa_cso_as50g": {
+    "price": 786000,
+    "slot": 4,
+    "parent": "tfa_cso_as50_master",
+    "deep": 4,
+    "model": "models/weapons/w_snip_awp.mdl",
+    "basic": false,
+    "name": "AI AS50 Pink Gold"
+  },
+  "tfa_cso_svdex": {
+    "price": 89000,
+    "slot": 4,
+    "parent": "tfa_cso_svd",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_svdex.mdl",
+    "basic": false,
+    "name": "SVD Custom"
+  },
+  "tfa_cso_xm1014red": {
+    "price": 16000,
+    "slot": 4,
+    "parent": "tfa_cso_xm1014",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_xm1014red.mdl",
+    "basic": false,
+    "name": "Benelli XM1014 Red Edition"
+  },
+  "tfa_cso_xtracker_nrm": {
+    "price": 250000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_xtracker_nrm.mdl",
+    "basic": false,
+    "name": "X-TRACKER"
+  },
+  "tfa_cso_paladin_v8": {
+    "price": 1500000,
+    "slot": 3,
+    "parent": "tfa_cso_paladin_v6",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_paladin_v8.mdl",
+    "basic": false,
+    "name": "AK-47 Overlord Expert"
+  },
+  "tfa_cso_dualkrisshero": {
+    "price": 256000,
+    "slot": 3,
+    "parent": "tfa_cso_dualkriss",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_dualkrisshero.mdl",
+    "basic": false,
+    "name": "Dual Kriss Custom"
+  },
+  "tfa_cso_trinity_flame": {
+    "price": 75000,
+    "slot": 5,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_trinity_flame.mdl",
+    "basic": false,
+    "name": "Trinity - Flame"
+  },
+  "tfa_cso_windrider": {
+    "price": 72000,
+    "slot": 2,
+    "parent": "tfa_cso_elite",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_windrider.mdl",
+    "basic": false,
+    "name": "Dual Beretta Windrider"
+  },
+  "tfa_cso_m95_expert": {
+    "price": 267000,
+    "slot": 4,
+    "parent": "tfa_cso_m95",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_m95_expert.mdl",
+    "basic": false,
+    "name": "M95 Expert"
+  },
+  "tfa_cso_scout_red": {
+    "price": 9700,
+    "slot": 4,
+    "parent": "tfa_cso_scout",
+    "deep": 2,
+    "model": "models/weapons/w_snip_scout.mdl",
+    "basic": false,
+    "name": "Steyr Scout Red"
+  },
+  "tfa_cso_rpg7_v8": {
+    "price": 215000,
+    "slot": 5,
+    "parent": "tfa_cso_rpg7_v6",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_rpg7_v8.mdl",
+    "basic": false,
+    "name": "RPG-7 Master"
+  },
+  "tfa_cso_chaingrenade": {
+    "price": 8500,
+    "slot": 5,
+    "parent": "tfa_cso_fragnade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_chain_grenade.mdl",
+    "basic": false,
+    "name": "Chain Grenade"
+  },
+  "tfa_cso_cartfrag": {
+    "price": 6900,
+    "slot": 5,
+    "parent": "tfa_cso_fragnade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_cartfrag.mdl",
+    "basic": false,
+    "name": "Dao Grenade"
+  },
+  "tfa_cso_ballista": {
+	"price": 2500000,
+	"slot": 4,
+	"parent": "nil",
+	"deep": 1,
+	"model": "models/weapons/tfa_cso/w_ballista.mdl",
+	"basic": false,
+	"name": "Ballista"
+  },
+  "tfa_cso_crowbar": {
+	"price": 3000,
+	"slot": 1,
+	"parent": "nil",
+	"deep": 1,
+	"model": "models/weapons/tfa_cso/w_crowbar.mdl",
+	"basic": true,
+	"name": "Crowbar"
+  },
+  "tfa_cso_crowbarcraft": {
+	"price": 21000,
+	"slot": 1,
+	"parent": "tfa_cso_crowbar",
+	"deep": 2,
+	"model": "models/weapons/tfa_cso/w_crowbarcraft.mdl",
+	"basic": false,
+	"name": "Crowbar Maverick"
+  },
+  "tfa_cso_dartpistol": {
+	"price": 71000,
+	"slot": 2,
+	"parent": "nil",
+	"deep": 1,
+	"model": "models/weapons/tfa_cso/w_dartpistol.mdl",
+	"basic": false,
+	"name": "Dart Pistol"
+  },
+  "tfa_cso_dualuzi_v6": {
+	"price": 298000,
+	"slot": 3,
+	"parent": "tfa_cso_dualuzi",
+	"deep": 3,
+	"model": "models/weapons/tfa_cso/w_dualuzi_v6.mdl",
+	"basic": false,
+	"name": "Dual Uzi Expert (A Mode)"
+  },
+  "tfa_cso_dualuzi_v6_stock": {
+	"price": 298000,
+	"slot": 3,
+	"parent": "tfa_cso_dualuzi_stock",
+	"deep": 3,
+	"model": "models/weapons/tfa_cso/w_dualuzi_v6_stock.mdl",
+	"basic": false,
+	"name": "Dual Uzi Expert (B Mode)"
+  },
+  "tfa_cso_heartbomb": {
+	"price": 6200,
+	"slot": 5,
+	"parent": "tfa_cso_fragnade",
+	"deep": 2,
+	"model": "models/weapons/tfa_cso/w_heartbomb.mdl",
+	"basic": false,
+	"name": "Heart Bomb"
+  },
+  "tfa_cso_heavenscorcher": {
+	"price": 7500000,
+	"slot": 4,
+	"parent": "nil",
+	"deep": 1,
+	"model": "models/weapons/tfa_cso/w_heavenscorcher.mdl",
+	"basic": false,
+	"name": "Heaven Scorcher"
+  },
+  "tfa_cso_hwando": {
+	"price": 28000,
+	"slot": 1,
+	"parent": "nil",
+	"deep": 1,
+	"model": "models/weapons/tfa_cso/w_hwando.mdl",
+	"basic": true,
+	"name": "Hwando"
+  },
+  "tfa_cso_thunderstorm": {
+        "price": 6500,
+        "slot": 5,
+        "parent": "tfa_cso_fragnade",
+        "deep": 2,
+        "model": "models/weapons/tfa_cso/w_thunderstorm.mdl",
+        "basic": false,
+        "name": "Thunderstorm"
+  }
+}
