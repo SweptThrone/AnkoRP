@@ -513,7 +513,7 @@
     "name": "Dual Infinity Custom"
   },
   "tfa_cso_charger5": {
-    "price": 9300,
+    "price": 27900,
     "slot": 3,
     "parent": "tfa_cso_groza",
     "deep": 2,
@@ -1278,7 +1278,7 @@
     "name": "Trinity - Stun"
   },
   "tfa_cso_charger7": {
-    "price": 89000,
+    "price": 267000,
     "slot": 4,
     "parent": "tfa_cso_mg3",
     "deep": 2,
@@ -3996,7 +3996,7 @@
     "name": "AI AS50 Master"
   },
   "tfa_cso_balrog11": {
-    "price": 87000,
+    "price": 261000,
     "slot": 4,
     "parent": "tfa_cso_xm1014",
     "deep": 2,
@@ -4210,5 +4210,41 @@
         "model": "models/weapons/tfa_cso/w_thunderstorm.mdl",
         "basic": false,
         "name": "Thunderstorm"
+  },
+  "tfa_cso_scar_oza": {
+	"price": 64000,
+	"slot": 3,
+	"parent": "tfa_cso_scar_l",
+	"deep": 2,
+	"model": "models/weapons/tfa_cso/w_scar_oza.mdl",
+	"basic": false,
+	"name": "SCAR OZ-A"
+  },
+  "tfa_cso_scar_ozb": {
+	"price": 74000,
+	"slot": 3,
+	"parent": "tfa_cso_scar_oza",
+	"deep": 3,
+	"model": "models/weapons/tfa_cso/w_scar_ozb.mdl",
+	"basic": false,
+	"name": "SCAR OZ-B"
+  },
+  "tfa_cso_scar_ozc": {
+	"price": 243000,
+	"slot": 3,
+	"parent": "tfa_cso_scar_ozb",
+	"deep": 4,
+	"model": "models/weapons/tfa_cso/w_scar_ozc.mdl",
+	"basic": false,
+	"name": "SCAR OZ-C"
+  },
+  "tfa_cso_scar_ozd": {
+	"price": 726000,
+	"slot": 3,
+	"parent": "tfa_cso_scar_ozc",
+	"deep": 5,
+	"model": "models/weapons/tfa_cso/w_scar_ozd.mdl",
+	"basic": false,
+	"name": "SCAR OZ-D"
   }
 }
