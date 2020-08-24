@@ -99,40 +99,27 @@ hook.Add( "PlayerFootstep", "NoStepWhenWalkAndCrouch", function( ply, pos, foot,
 
 end )
 
---[[
-	ALL OF THIS SHIT RIGHT HERE BROKE THE WHOLE FUCKING SERVER
-	IT WOULD CONSTANTLY SCREAM AT ME ABOUT HOW newTeam WAS NIL
-	BUT FUCKING READ THE CODE, IT IS DEFINED
-	THERE IS ABSOLUTELY NO REASON IT SHOULDN'T BE WORKING
-	FUCK
-
-	Read the hook name.
-]]--
-
 if SERVER then
 
-	hook.Remove( "OnPlayerChangedTeam", "SaveKillsInSameTeam" )
-
     hook.Add("PlayerChangedTeam", "SaveKillsInSameTeam", function( ply, old, new )
+
+		if !RPExtraTeams then return end
+		if old == 0 or old == 1001 or new == 0 or new == 1001 then return end
+
         local oldTeam = -1
 		local newTeam = -1
 		
 		for k,v in pairs( RPExtraTeams ) do
+			print( "old: " .. old .. " new: " .. new )
 			if v.team == old then
+				print( "OLD " .. v.team .. " is equal to " .. old )
 				oldTeam = v
 			end
 			if v.team == new then
-				newTeam = v
-			end
-			--print( v.name .. " " .. v.team )
-		end
-		--[[
-		for k,v in pairs( RPExtraTeams ) do
-			if v.team == new then
+				print( "NEW " ..v.team .. " is equal to " .. new )
 				newTeam = v
 			end
 		end
-		]]
 		if newTeam.category != oldTeam.category then
 			ply:SetFrags( 0 )
 		end
