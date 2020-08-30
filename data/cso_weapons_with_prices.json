@@ -3656,7 +3656,7 @@
   "tfa_cso_skull4": {
     "price": 498000,
     "slot": 3,
-    "parent": "tfa_cso_spas12maverick",
+    "parent": "tfa_cso_skull5",
     "deep": 3,
     "model": "models/weapons/tfa_cso/w_skull4.mdl",
     "basic": false,
@@ -4189,7 +4189,7 @@
 	"slot": 4,
 	"parent": "nil",
 	"deep": 1,
-	"model": "models/weapons/tfa_cso/w_heavenscorcher.mdl",
+	"model": "models/weapons/tfa_cso/w_heaven_scorcher.mdl",
 	"basic": false,
 	"name": "Heaven Scorcher"
   },
