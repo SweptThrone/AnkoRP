@@ -96,9 +96,7 @@ end
 if SERVER then
     function ENT:Initialize()
     
-        self:SetModel( "models/props_c17/FurnitureWashingmachine001a.mdl" )
-        --models/props/cs_assault/MoneyPallet02.mdl - some full
-        --models/props/cs_assault/MoneyPallet.mdl - fully full
+        self:SetModel( "models/props_wasteland/laundry_washer001a.mdl" )
         self:PhysicsInit( SOLID_VPHYSICS )
         self:SetMoveType( MOVETYPE_VPHYSICS )
         self:SetSolid( SOLID_VPHYSICS )
