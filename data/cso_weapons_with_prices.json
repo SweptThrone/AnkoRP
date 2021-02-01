@@ -1,4 +1,4 @@
-﻿{
+{
   "tfa_cso_m82_v8": {
     "price": 395000,
     "slot": 4,
@@ -16,6 +16,15 @@
     "model": "models/weapons/tfa_cso/w_m79.mdl",
     "basic": true,
     "name": "M79"
+  },
+  "tfa_cso_shooting_star": {
+    "price": 192000,
+    "slot": 2,
+    "parent": "tfa_cso_m79",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_shooting_star.mdl",
+    "basic": false,
+    "name": "Shooting Star"
   },
   "tfa_cso_hk23_master": {
     "price": 483000,
@@ -80,6 +89,15 @@
     "basic": true,
     "name": "Tomahawk"
   },
+  "tfa_cso_tomahawk_xmas": {
+    "price": 32000,
+    "slot": 1,
+    "parent": "tfa_cso_tomahawk",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_tomahawk_xmas.mdl",
+    "basic": false,
+    "name": "Tomahawk Christmas"
+  },
   "tfa_cso_lightning_rail": {
     "price": 250000,
     "slot": 4,
@@ -134,12 +152,12 @@
     "basic": true,
     "name": "FAMAS F1"
   },
-  "tfa_cso_mac10_v2": {
+  "tfa_cso_mac10": {
     "price": 1100,
     "slot": 4,
     "parent": "nil",
     "deep": 1,
-    "model": "models/weapons/w_smg_mac10.mdl",
+    "model": "models/weapons/tfa_cso/w_mac10.mdl",
     "basic": true,
     "name": "MAC-10"
   },
@@ -215,12 +233,12 @@
     "basic": false,
     "name": "USAS-12 Camouflage"
   },
-  "tfa_cso_p228_v2": {
+  "tfa_cso_p228": {
     "price": 300,
     "slot": 2,
     "parent": "nil",
     "deep": 1,
-    "model": "models/weapons/w_pist_p228.mdl",
+    "model": "models/weapons/tfa_cso/w_p228.mdl",
     "basic": true,
     "name": "P228"
   },
@@ -907,6 +925,15 @@
     "model": "models/weapons/tfa_cso/w_negev.mdl",
     "basic": true,
     "name": "Negev"
+  },
+  "tfa_cso_negev_ajax": {
+    "price": 185000,
+    "slot": 3,
+    "parent": "tfa_cso_negev",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_negev_ajax.mdl",
+    "basic": false,
+    "name": "Negev NG-7 Ajax"
   },
   "tfa_cso_dualshawujing": {
     "price": 358000,
@@ -1834,6 +1861,15 @@
     "model": "models/weapons/tfa_cso/w_volcano_v6.mdl",
     "basic": false,
     "name": "Volcano Expert"
+  },
+  "tfa_cso_volcanoex": {
+    "price": 2630000,
+    "slot": 3,
+    "parent": "tfa_cso_volcano_v6",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_volcanoex.mdl",
+    "basic": false,
+    "name": "Inferno Cannon"
   },
   "tfa_cso_tbarrel": {
     "price": 131000,
@@ -4203,13 +4239,13 @@
 	"name": "Hwando"
   },
   "tfa_cso_thunderstorm": {
-        "price": 6500,
-        "slot": 5,
-        "parent": "tfa_cso_fragnade",
-        "deep": 2,
-        "model": "models/weapons/tfa_cso/w_thunderstorm.mdl",
-        "basic": false,
-        "name": "Thunderstorm"
+    "price": 6500,
+    "slot": 5,
+    "parent": "tfa_cso_fragnade",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_thunderstorm.mdl",
+    "basic": false,
+    "name": "Thunderstorm"
   },
   "tfa_cso_scar_oza": {
 	"price": 64000,
@@ -4246,5 +4282,77 @@
 	"model": "models/weapons/tfa_cso/w_scar_ozd.mdl",
 	"basic": false,
 	"name": "SCAR OZ-D"
+  },
+  "tfa_cso_magic_rod": {
+    "price": 2100000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_magic_rod.mdl",
+    "basic": false,
+    "name": "Shining Heart Rod"
+  },
+  "tfa_cso_magicsg": {
+    "price": 870000,
+    "slot": 4,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_magicsg.mdl",
+    "basic": false,
+    "name": "Starlight Rolling Shooter"
+  },
+  "tfa_cso_dragonknife": {
+    "price": 1800,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_dragonknife.mdl",
+    "basic": false,
+    "name": "Dragon Knife"
+  },
+  "tfa_cso_magicknife": {
+    "price": 310000,
+    "slot": 1,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_magicknife.mdl",
+    "basic": false,
+    "name": "Miracle Prism Sword"
+  },
+  "tfa_cso_plasmagunexa": {
+    "price": 47000,
+    "slot": 3,
+    "parent": "nil",
+    "deep": 1,
+    "model": "models/weapons/tfa_cso/w_plasmagunexa.mdl",
+    "basic": false,
+    "name": "Plasma Rifle MK-1"
+  },
+  "tfa_cso_plasmagunexb": {
+    "price": 345000,
+    "slot": 3,
+    "parent": "tfa_cso_plasmagunexa",
+    "deep": 2,
+    "model": "models/weapons/tfa_cso/w_plasmagunexb.mdl",
+    "basic": false,
+    "name": "Plasma Rifle MK-2"
+  },
+  "tfa_cso_plasmagunexc": {
+    "price": 1247000,
+    "slot": 3,
+    "parent": "tfa_cso_plasmagunexb",
+    "deep": 3,
+    "model": "models/weapons/tfa_cso/w_plasmagunexc.mdl",
+    "basic": false,
+    "name": "Taimat Mk3"
+  },
+  "tfa_cso_plasmagunexd": {
+    "price": 2591000,
+    "slot": 3,
+    "parent": "tfa_cso_plasmagunexc",
+    "deep": 4,
+    "model": "models/weapons/tfa_cso/w_plasmagunexd.mdl",
+    "basic": false,
+    "name": "Taimat Mk4"
   }
 }
